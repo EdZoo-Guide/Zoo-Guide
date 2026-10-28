@@ -1,0 +1,19 @@
+{
+  "name": "Edinburgh Zoo Species Guide",
+  "short_name": "Zoo Guide",
+  "description": "Field guide to the 70 featured species at Edinburgh Zoo: biology, behaviour, conservation, evolution and how they relate.",
+  "id": "./",
+  "start_url": "./",
+  "scope": "./",
+  "display": "standalone",
+  "orientation": "any",
+  "background_color": "#F1F4EF",
+  "theme_color": "#2E5E4E",
+  "lang": "en-GB",
+  "categories": ["education", "reference"],
+  "icons": [
+    { "src": "icons/icon-192.png", "sizes": "192x192", "type": "image/png", "purpose": "any" },
+    { "src": "icons/icon-512.png", "sizes": "512x512", "type": "image/png", "purpose": "any" },
+    { "src": "icons/maskable-512.png", "sizes": "512x512", "type": "image/png", "purpose": "maskable" }
+  ]
+}

@@ -1,0 +1,1882 @@
+[
+ {
+  "id": "brown-capuchin",
+  "name": "Brown capuchin",
+  "scientificName": "Sapajus apella",
+  "group": "Primates",
+  "iucnStatus": "LC",
+  "statusNote": null,
+  "range": "Amazon and Orinoco basins, South America",
+  "biology": "Adults weigh 2–4.5 kg, with males about a third heavier than females. Many have a dark cap and tufts of fur above the ears. The tail is semi-prehensile: it can wrap around branches and take some of the monkey's weight, but lacks the bare gripping pad of a spider monkey's tail. Powerful jaw muscles and thick tooth enamel let it open hard palm nuts that most other monkeys cannot. Its diet is very broad: fruit, seeds, pith, insect larvae, frogs, eggs and nestlings. Females give birth to a single infant roughly every two years after a pregnancy of about 160 days, and the infant rides on its mother's back. Wild capuchins live about 25 years; in human care they can pass 40.",
+  "behaviour": "Groups of 10–35 have a dominant male and a hierarchy among the females. Capuchins spend most of the day foraging noisily, stripping bark and tearing apart dead wood for grubs. They have many calls, including food calls and different alarm calls for aerial and ground predators such as harpy eagles. In dry habitats some populations crack nuts by placing them on stone or log anvils and striking them with hammer stones they choose for weight, and young capuchins spend years watching adults before they master it. They also 'anoint' themselves by rubbing millipedes, ants or citrus into their fur, often as a group, which may repel insects and strengthen social bonds.",
+  "conservation": "Least Concern thanks to a huge range and flexible diet, but hunted for meat and the pet trade and squeezed by Amazon deforestation.",
+  "evolution": "New World monkeys (platyrrhines) reached South America from Africa about 35–40 million years ago, most likely on rafts of floating vegetation. Capuchins and squirrel monkeys form the family Cebidae and separated about 13–15 million years ago. The robust tufted capuchins (Sapajus) and gracile capuchins (Cebus) split around 6 million years ago. Genetic studies suggest Sapajus arose in the Atlantic Forest and spread into the Amazon only within the last half-million years. Capuchins evolved large brains and tool use independently of apes, which makes them a key comparison for understanding how intelligence evolves.",
+  "specialFeatures": "One of the great tool users among primates: in Brazil they crack nuts with stone hammers on anvils, and archaeologists have excavated capuchin stone tools showing the habit is at least 3,000 years old. They also rub crushed millipedes and plants into their fur as insect repellent.",
+  "relationships": [
+   {
+    "id": "common-squirrel-monkey",
+    "note": "Same family (Cebidae); its closest relative at the zoo"
+   },
+   {
+    "id": "cotton-top-tamarin",
+    "note": "Fellow New World monkey in a sister family"
+   },
+   {
+    "id": "goeldis-monkey",
+    "note": "Fellow New World monkey in a sister family"
+   },
+   {
+    "id": "coppery-titi-monkey",
+    "note": "Another South American monkey, from the more distant family Pitheciidae"
+   }
+  ]
+ },
+ {
+  "id": "buff-cheeked-gibbon",
+  "name": "Buff-cheeked gibbon",
+  "scientificName": "Nomascus gabriellae",
+  "group": "Primates",
+  "iucnStatus": "EN",
+  "statusNote": null,
+  "range": "Southern Vietnam, eastern Cambodia and southern Laos",
+  "biology": "Weighs 5–8 kg and has no tail. Its arms are much longer than its legs, and it has ball-and-socket wrist joints, long hooked fingers and a short thumb set out of the way, all adaptations for swinging. Diet is mostly ripe fruit, especially figs, plus young leaves, flowers and insects. Females give birth to one infant after about seven months. The infant clings to its mother's belly, is weaned at around two years and leaves the family at about eight. Gibbons live around 30 years, longer in human care.",
+  "behaviour": "Lives in family groups of a breeding pair and their young, defending a territory of a few dozen hectares. Most mornings the pair sings a 'great call' duet lasting 10–30 minutes: the female's rising, accelerating notes are answered by the male's booms and trills. The songs advertise the territory and reinforce the pair bond, and young gibbons join in as they grow. Gibbons can cover several metres in a single swing and sometimes walk upright along branches with their arms raised for balance.",
+  "conservation": "Endangered. Hunting, the pet trade and loss of lowland forest have cut numbers. The European zoo breeding programme (EEP) keeps a genetically managed backup population.",
+  "evolution": "Gibbons (Hylobatidae) split from the great apes about 17–20 million years ago and are the most species-rich living apes, with around 20 species in four genera. The genera differ in chromosome number: Hylobates 44, Hoolock 38, Symphalangus 50 and Nomascus 52. Crested gibbons (Nomascus) branched off early. Gibbon genomes show unusually frequent chromosome rearrangements, linked partly to a gibbon-specific mobile DNA element called LAVA. This rapid reshuffling may have helped the genera diverge quickly.",
+  "specialFeatures": "Colour changes with age and sex: babies are born pale, turn black, then females turn golden at maturity while males stay black with buff cheeks. Gibbon chromosomes have been reshuffled faster than almost any other mammal's.",
+  "relationships": [
+   {
+    "id": "chimpanzee",
+    "note": "The only other ape at the zoo; both are in the superfamily Hominoidea"
+   },
+   {
+    "id": "drill",
+    "note": "Old World monkey; apes and Old World monkeys share an ancestor about 25–30 million years ago"
+   }
+  ]
+ },
+ {
+  "id": "chimpanzee",
+  "name": "Chimpanzee",
+  "scientificName": "Pan troglodytes",
+  "group": "Primates",
+  "iucnStatus": "EN",
+  "statusNote": null,
+  "range": "Equatorial Africa, Senegal to Tanzania",
+  "biology": "Males weigh about 40–60 kg and females 30–50 kg. Chimps knuckle-walk on the ground and climb with long arms and grasping feet. Their diet is mostly ripe fruit, plus leaves, seeds, termites, ants, honey and meat. A female has a single infant about every five to six years after an eight-month pregnancy, and the young nurse for four to five years. Females first breed at about 13. Each night chimps build a fresh nest of bent branches in the trees. Wild chimpanzees can live more than 50 years.",
+  "behaviour": "Communities of 20–150 split into smaller parties that change through the day. Males compete for rank with charging displays and branch-dragging, form alliances, and repair relationships by grooming. Males patrol territory borders, and attacks on neighbouring communities can be lethal. Some communities hunt red colobus monkeys, occasionally with different chimps taking different roles. Chimps use dozens of gestures and many calls, including the long-distance pant-hoot. Tool use is learned and varies between populations: termite-fishing probes, leaf sponges, stone hammers and, in Senegal, sharpened sticks used to spear bushbabies.",
+  "conservation": "Endangered. Habitat loss, the bushmeat trade and disease (including Ebola) are the main threats. The zoo's Budongo Trail is named after the Budongo Forest in Uganda, where long-term chimp research and conservation work continues.",
+  "evolution": "The human and chimpanzee lineages split about 6–7 million years ago. Chimps and bonobos share about 98.8% of our DNA where the genomes can be aligned. The two Pan species separated 1–2 million years ago, probably when the Congo River became a barrier, though genetic evidence shows some later interbreeding. Four chimpanzee subspecies are recognised: western, Nigeria-Cameroon, central and eastern. Chimp fossils are extremely rare. The first known, a few teeth about 500,000 years old, was described from Kenya in 2005.",
+  "specialFeatures": "Different populations have their own traditions, such as fishing for termites with twigs, cracking nuts or using chewed leaves as sponges, which researchers describe as culture. Budongo Trail includes the Living Links research centre run with the University of St Andrews, where scientists study chimp behaviour and cognition.",
+  "relationships": [
+   {
+    "id": "buff-cheeked-gibbon",
+    "note": "Fellow ape (superfamily Hominoidea)"
+   },
+   {
+    "id": "gelada-baboon",
+    "note": "Old World monkey cousin"
+   },
+   {
+    "id": "drill",
+    "note": "Old World monkey cousin from the same forests of west-central Africa"
+   }
+  ]
+ },
+ {
+  "id": "common-squirrel-monkey",
+  "name": "Common squirrel monkey",
+  "scientificName": "Saimiri sciureus",
+  "group": "Primates",
+  "iucnStatus": "LC",
+  "statusNote": null,
+  "range": "Amazon basin, South America",
+  "biology": "Weighs 0.6–1.1 kg, with a white face mask, a dark muzzle and a long tail used for balance rather than gripping. It eats mainly insects and spiders, plus fruit, flowers and nectar. Births are synchronised: females in a troop give birth within a few weeks of each other in the rainy season, when food is plentiful. The single infant rides on its mother's back for the first weeks. Squirrel monkeys live about 15–20 years, longer in human care.",
+  "behaviour": "Troops of 25–75 or more move quickly through the lower canopy, and they often travel with capuchin groups to catch insects the capuchins disturb. They keep in contact with frequent chirps and 'chuck' calls. Before the breeding season males put on fat around the shoulders and upper arms, becoming visibly bulkier. Squirrel monkeys also urine-wash, rubbing urine onto their hands and feet, which may leave scent trails or help them keep cool.",
+  "conservation": "Least Concern. Historically trapped in large numbers for the pet trade and laboratories, and still affected by forest clearance.",
+  "evolution": "The squirrel monkey lineage split from capuchins about 13–15 million years ago. Genetic studies indicate the living Saimiri species diversified in Amazonia within roughly the last 1.5 million years. Their small size and insect-heavy diet may be close to the ancestral state for the capuchin–squirrel monkey family.",
+  "specialFeatures": "Its brain is about 1/17 of its body weight, one of the highest ratios of any primate. Before the breeding season males bulk up with fat and water around the shoulders (the 'fatted male'), which females appear to prefer.",
+  "relationships": [
+   {
+    "id": "brown-capuchin",
+    "note": "Same family (Cebidae)"
+   },
+   {
+    "id": "cotton-top-tamarin",
+    "note": "Fellow small New World monkey"
+   },
+   {
+    "id": "goeldis-monkey",
+    "note": "Fellow small New World monkey"
+   }
+  ]
+ },
+ {
+  "id": "coppery-titi-monkey",
+  "name": "Coppery titi monkey",
+  "scientificName": "Plecturocebus cupreus",
+  "group": "Primates",
+  "iucnStatus": "LC",
+  "statusNote": null,
+  "range": "Western Amazon (Peru, Brazil)",
+  "biology": "A small monkey of about 1 kg, with thick coppery-red fur on its limbs and chest, a darker back and a long fluffy tail that cannot grip. It eats mainly fruit, plus leaves, seeds and insects. A single infant is born each year after about five and a half months. From the first days the father carries the infant most of the time, handing it to the mother only to nurse. Titis live about 20–25 years.",
+  "behaviour": "Lives as a pair with up to three young in a small territory. Partners spend much of the day touching, often sitting side by side with tails twined. Each morning the pair sings a loud duet, and neighbouring pairs answer. When separated, both partners show raised stress hormones. Infants become more attached to their father than to their mother, a pattern that is rare in mammals.",
+  "conservation": "Least Concern, though it relies on intact forest and is affected by logging and road building.",
+  "evolution": "Titis belong to Pitheciidae with sakis and uakaris, a family that split from other New World monkeys more than 20 million years ago. Titis were long placed in a single genus, Callicebus. In 2016 genetic studies led to a split into three genera, Callicebus, Cheracebus and Plecturocebus, with Plecturocebus the largest. New titi species are still being described from the Amazon.",
+  "specialFeatures": "Titis are a leading model for studying pair bonds: partners show stress hormones when separated and prefer each other over strangers, much like human attachment.",
+  "relationships": [
+   {
+    "id": "brown-capuchin",
+    "note": "Fellow New World monkey (different family)"
+   },
+   {
+    "id": "cotton-top-tamarin",
+    "note": "Fellow New World monkey (different family)"
+   },
+   {
+    "id": "common-squirrel-monkey",
+    "note": "Fellow Amazonian monkey"
+   }
+  ]
+ },
+ {
+  "id": "cotton-top-tamarin",
+  "name": "Cotton-top tamarin",
+  "scientificName": "Saguinus oedipus",
+  "group": "Primates",
+  "iucnStatus": "CR",
+  "statusNote": null,
+  "range": "North-west Colombia",
+  "biology": "Weighs about 400–500 g, with a white crest of long hair, a black face and a tail longer than its body. Claw-like nails on every digit except the big toe let it cling to tree trunks like a squirrel. It eats fruit, insects, tree gum and nectar. Females usually have twins after about 140–145 days and can conceive again soon after giving birth. Tamarins live about 13–20 years, longer in human care.",
+  "behaviour": "Groups of two to nine usually have one breeding female, whose scent and behaviour suppress breeding in other females. All group members, especially males and older siblings, carry the twins and share food with them, and young tamarins practise infant care before they breed themselves. Groups defend territories with long calls and raise their crests when excited or threatened. Researchers have found that some of their call sequences follow consistent rules.",
+  "conservation": "Critically Endangered. Over 95% of its forest has been cleared, and tens of thousands were exported for biomedical research in the 1960s–70s. Projects such as Proyecto Tití in Colombia work on habitat and community conservation.",
+  "evolution": "Marmosets and tamarins (Callitrichidae) evolved from larger monkey ancestors by shrinking in size. Dwarfing is linked to their other shared features: twinning, claw-like nails and gum eating. Saguinus is one of the earliest-branching callitrichid genera. The cotton-top's closest relatives are Geoffroy's tamarin in Panama and the white-footed tamarin in Colombia, separated from it by rivers and mountains.",
+  "specialFeatures": "Twins share a placenta and swap cells before birth, so most are chimeras carrying some of their sibling's blood-forming cells. Their calls follow rule-like sequences that researchers have studied as a simple 'grammar'.",
+  "relationships": [
+   {
+    "id": "goeldis-monkey",
+    "note": "Same family (Callitrichidae)"
+   },
+   {
+    "id": "common-squirrel-monkey",
+    "note": "Fellow small New World monkey"
+   },
+   {
+    "id": "brown-capuchin",
+    "note": "Fellow New World monkey"
+   }
+  ]
+ },
+ {
+  "id": "crowned-lemur",
+  "name": "Crowned lemur",
+  "scientificName": "Eulemur coronatus",
+  "group": "Primates",
+  "iucnStatus": "EN",
+  "statusNote": null,
+  "range": "Far northern Madagascar",
+  "biology": "Weighs about 1.1–1.3 kg, with a body around 35 cm long and a slightly longer tail. Males are reddish-brown with a dark crown patch; females are grey with an orange tiara. It eats mainly fruit, plus young leaves, flowers and nectar. In the dry season it drinks rainwater from tree holes. A single infant, occasionally twins, is born after about 125 days. Crowned lemurs live around 20 years.",
+  "behaviour": "Lives in mixed groups of 5–15 that split up to forage and regroup to rest. It is active both day and night, adjusting to the season and the moon. Crowned lemurs often associate with Sanford's brown lemurs, and the two species sometimes travel together. They communicate with grunts and scent marks, and move by leaping between branches and running over the sharp limestone pinnacles called tsingy.",
+  "conservation": "Endangered by slash-and-burn farming, charcoal production, mining and hunting within its small range.",
+  "evolution": "Lemurs descend from ancestors that colonised Madagascar 50–60 million years ago, probably by rafting from Africa, and diversified into more than 100 species. The true lemurs (Eulemur) radiated rapidly within the last few million years, which is why its dozen or so species look and behave so alike and can hybridise where their ranges meet.",
+  "specialFeatures": "Like other Eulemur species it is cathemeral, active in bursts both day and night, which is unusual among primates.",
+  "relationships": [
+   {
+    "id": "red-bellied-lemur",
+    "note": "Same genus (Eulemur)"
+   },
+   {
+    "id": "ring-tailed-lemur",
+    "note": "Same family (Lemuridae)"
+   },
+   {
+    "id": "madagascan-hissing-cockroach",
+    "note": "Shares its island home, Madagascar"
+   }
+  ]
+ },
+ {
+  "id": "drill",
+  "name": "Drill",
+  "scientificName": "Mandrillus leucophaeus",
+  "group": "Primates",
+  "iucnStatus": "EN",
+  "statusNote": null,
+  "range": "Cross River region of Nigeria and Cameroon, and Bioko Island",
+  "biology": "Males weigh about 20–25 kg, more than twice the weight of females, and have large canines. Both sexes have a black face ringed with pale fur, a long muzzle and a short tail. Drills eat fruit, seeds, roots, fungi, insects and small animals, mostly foraged on the forest floor. A single infant is born after about six months. Drills can live around 30 years in human care.",
+  "behaviour": "Groups are led by a dominant male with females and young, and sometimes merge into hordes of 100 or more. Drills spend most of the day on the ground but sleep in trees. In dense forest males keep the group together with loud two-phase grunts and crowing calls. They communicate at close range with head-bobbing and a teeth-showing grin, and males scent-mark with a gland on the chest.",
+  "conservation": "Endangered, and one of Africa's most threatened primates because of the bushmeat trade and forest loss. Sanctuaries in Nigeria and Cameroon breed and release drills.",
+  "evolution": "Drills and mandrills (Mandrillus) belong to the baboon tribe, Papionini. Molecular studies show Mandrillus is most closely related to the Cercocebus mangabeys, while true baboons are closer to the Lophocebus mangabeys and geladas. Ground foraging in forest evolved within the Mandrillus–Cercocebus branch. Drills and mandrills are separated by the Sanaga River in Cameroon.",
+  "specialFeatures": "A dominant male's colours brighten with rank and fade if he loses status.",
+  "relationships": [
+   {
+    "id": "gelada-baboon",
+    "note": "Fellow papionin monkey"
+   },
+   {
+    "id": "japanese-macaque",
+    "note": "Fellow papionin monkey"
+   },
+   {
+    "id": "lhoests-monkey",
+    "note": "Fellow Old World monkey"
+   },
+   {
+    "id": "chimpanzee",
+    "note": "Shares the forests of west-central Africa"
+   }
+  ]
+ },
+ {
+  "id": "gelada-baboon",
+  "name": "Gelada",
+  "scientificName": "Theropithecus gelada",
+  "group": "Primates",
+  "iucnStatus": "LC",
+  "statusNote": null,
+  "range": "Ethiopian Highlands",
+  "biology": "Males weigh about 18–20 kg and females 11–13 kg, and males carry a long cape of brown hair. Short index fingers and opposable thumbs give a precise pinch grip for plucking grass blades, and the teeth are built for grinding. Geladas eat grass blades and seeds, and in the dry season dig up underground stems and roots. A single infant is born after about six months. Geladas live about 20 years in the wild.",
+  "behaviour": "Geladas live at 1,800–4,400 m in the Ethiopian Highlands and sleep on cliff ledges at night. Their society has several levels: reproductive units of one leader male with several females, bachelor groups of young males, and bands and herds of hundreds formed when units gather. Females largely decide whether to keep a leader male or accept a challenger. Geladas have over 20 call types, and the brightness of a male's red chest patch signals his condition and status.",
+  "conservation": "Least Concern, but found only in the Ethiopian Highlands, where farming and climate change are shrinking its grasslands.",
+  "evolution": "The Theropithecus lineage split from true baboons about 4–5 million years ago. Fossil species such as Theropithecus oswaldi reached gorilla size and lived across Africa, and some show cut marks made by early humans. The gelada is the only survivor, restricted to the Ethiopian Highlands, where its grass diet faces little competition from other primates.",
+  "specialFeatures": "Both sexes have a bare red chest patch, which in females changes with reproductive state. Its lip-smacking calls have a rhythm close to human speech syllables.",
+  "relationships": [
+   {
+    "id": "drill",
+    "note": "Fellow papionin monkey"
+   },
+   {
+    "id": "japanese-macaque",
+    "note": "Fellow papionin monkey"
+   },
+   {
+    "id": "lhoests-monkey",
+    "note": "Fellow Old World monkey"
+   }
+  ]
+ },
+ {
+  "id": "goeldis-monkey",
+  "name": "Goeldi's monkey",
+  "scientificName": "Callimico goeldii",
+  "group": "Primates",
+  "iucnStatus": "VU",
+  "statusNote": null,
+  "range": "Upper Amazon (Bolivia, Brazil, Colombia, Ecuador, Peru)",
+  "biology": "Weighs 400–550 g, with long, glossy black fur that forms a short mane. Like marmosets it has claw-like nails. It eats fruit, insects and small vertebrates, and in the dry season fungi, especially jelly fungi growing on bamboo, become a main food. Females give birth to a single infant after about 150 days and can breed twice a year. Goeldi's monkeys live about 20 years in human care.",
+  "behaviour": "Groups of 2–12 often travel with saddleback or moustached tamarins in mixed-species groups, which may improve predator detection. Goeldi's monkeys forage in the understorey within a few metres of the ground and leap up to 4 m between vertical trunks. The mother carries her infant alone for the first few weeks before other group members help.",
+  "conservation": "Vulnerable. It occurs in scattered, low-density populations that are easily fragmented by deforestation.",
+  "evolution": "Callimico is a callitrichid, and molecular studies place it closest to the marmosets. It keeps third molars and gives birth to single young, both likely inherited from the family's larger-bodied ancestors and lost in other marmosets and tamarins.",
+  "specialFeatures": "Usually gives birth to a single baby, not the twins typical of tamarins, and is one of the very few primates that relies heavily on fungi.",
+  "relationships": [
+   {
+    "id": "cotton-top-tamarin",
+    "note": "Same family (Callitrichidae)"
+   },
+   {
+    "id": "common-squirrel-monkey",
+    "note": "Fellow New World monkey"
+   },
+   {
+    "id": "brown-capuchin",
+    "note": "Fellow New World monkey"
+   }
+  ]
+ },
+ {
+  "id": "japanese-macaque",
+  "name": "Japanese macaque",
+  "scientificName": "Macaca fuscata",
+  "group": "Primates",
+  "iucnStatus": "LC",
+  "statusNote": null,
+  "range": "Japan",
+  "biology": "Males weigh about 11 kg and females 8–9 kg. It has a short tail, a bare red face and rump that redden further in the breeding season, and a thick coat in winter. Japanese macaques eat fruit, seeds, leaves, insects and, in winter, bark and buds. Breeding is seasonal, with a single infant born after about five and a half months. Females can live more than 25 years.",
+  "behaviour": "Troops of 20 to over 100 are built around female family lines, and daughters inherit a rank just below their mother. Males leave their birth troop at four to five years old. In winter macaques huddle in tight groups to keep warm, and young ones have been seen rolling snowballs in play. At Jigokudani, monkeys have bathed in hot springs since the 1960s, mostly females, and a 2018 study found bathing lowers their stress hormones. On Koshima island, washing sweet potatoes in seawater spread through the troop after one young female started it.",
+  "conservation": "Least Concern; conflict with farmers over crop raiding leads to culling in some areas.",
+  "evolution": "Macaques left Africa about 5–6 million years ago and spread across Asia, becoming the most widespread primate genus apart from humans. Japanese macaques probably reached Japan from the Korean Peninsula over a land bridge several hundred thousand years ago. Their closest relative is the rhesus macaque.",
+  "specialFeatures": "Some troops bathe in hot springs, most famously at Jigokudani. On Koshima island a young female began washing sweet potatoes in the sea in the 1950s, and the habit spread through the troop, a classic early study of culture in animals.",
+  "relationships": [
+   {
+    "id": "drill",
+    "note": "Fellow papionin monkey"
+   },
+   {
+    "id": "gelada-baboon",
+    "note": "Fellow papionin monkey"
+   },
+   {
+    "id": "lhoests-monkey",
+    "note": "Fellow Old World monkey"
+   }
+  ]
+ },
+ {
+  "id": "lhoests-monkey",
+  "name": "L'Hoest's monkey",
+  "scientificName": "Allochrocebus lhoesti",
+  "group": "Primates",
+  "iucnStatus": "VU",
+  "statusNote": null,
+  "range": "Albertine Rift mountains (DRC, Uganda, Rwanda, Burundi)",
+  "biology": "Males weigh about 6 kg and females about 3.5 kg. The coat is dark grey-brown with a chestnut saddle and a white bib and beard, and the tail is often held curled upright. It eats fruit, leaves, herbs and insects, much of it found on the ground. Females give birth to a single infant.",
+  "behaviour": "Lives in groups of one adult male with about 10–17 females and their young; males leave their birth group. It is largely ground-dwelling and flees along the forest floor rather than up into trees. It is shy and quiet, using low calls to keep in touch, while adult males give loud calls to space out groups.",
+  "conservation": "Vulnerable. The Albertine Rift has dense human populations and ongoing forest loss and conflict.",
+  "evolution": "L'Hoest's monkey's two closest relatives, Preuss's monkey in Cameroon and the sun-tailed monkey in Gabon, live far away, which suggests the group survived in separate mountain forest refuges as Africa's climate changed. Guenons radiated rapidly over the last several million years, and the ground-dwelling forms evolved more than once.",
+  "specialFeatures": "Experiments with guenon face images show facial pattern is how these monkeys recognise their own species.",
+  "relationships": [
+   {
+    "id": "drill",
+    "note": "Fellow Old World monkey"
+   },
+   {
+    "id": "gelada-baboon",
+    "note": "Fellow Old World monkey"
+   },
+   {
+    "id": "japanese-macaque",
+    "note": "Fellow Old World monkey"
+   }
+  ]
+ },
+ {
+  "id": "red-bellied-lemur",
+  "name": "Red-bellied lemur",
+  "scientificName": "Eulemur rubriventer",
+  "group": "Primates",
+  "iucnStatus": "VU",
+  "statusNote": null,
+  "range": "Eastern Madagascar rainforests",
+  "biology": "Weighs about 2 kg, with dense chestnut fur and a darker tail. Males have white teardrop patches below the eyes and females have a creamy belly. It eats fruit, flowers, nectar and young leaves. A single infant is born each year after about 125 days, and fathers often carry it.",
+  "behaviour": "Lives in small, cohesive family groups of two to six built around a bonded pair, defending a territory. It is active day and night. Fathers take a large share of infant care, unusual among lemurs. While feeding on nectar it carries pollen between flowers, making it a pollinator in eastern rainforests.",
+  "conservation": "Vulnerable, mainly from rainforest loss and hunting.",
+  "evolution": "A true lemur (Eulemur), part of Madagascar's lemur radiation from a single colonising ancestor. Genetic studies often place the red-bellied lemur as one of the earliest branches within Eulemur.",
+  "specialFeatures": "Pair-living is unusual among lemurs, and while feeding on nectar it pollinates rainforest plants.",
+  "relationships": [
+   {
+    "id": "crowned-lemur",
+    "note": "Same genus (Eulemur)"
+   },
+   {
+    "id": "ring-tailed-lemur",
+    "note": "Same family (Lemuridae)"
+   },
+   {
+    "id": "madagascan-hissing-cockroach",
+    "note": "Fellow native of Madagascar"
+   }
+  ]
+ },
+ {
+  "id": "ring-tailed-lemur",
+  "name": "Ring-tailed lemur",
+  "scientificName": "Lemur catta",
+  "group": "Primates",
+  "iucnStatus": "EN",
+  "statusNote": null,
+  "range": "Southern and south-western Madagascar",
+  "biology": "Weighs about 2.2 kg, with a grey body and a black-and-white ringed tail longer than its body, carrying 13–14 white rings. It has scent glands on the wrists (with a horny spur in males), on the chest in males and around the genitals. Ring-tails eat fruit, leaves, flowers and bark, and tamarind is a key food. Breeding is tightly seasonal: each female is receptive for less than a day a year. One or two young are born after about 135 days. Ring-tails live up to about 20 years in the wild and over 30 in human care.",
+  "behaviour": "Groups of 6–30 are led by females, which stay for life while males move between groups. Ring-tails spend about a third of their time on the ground and walk with tails raised like flags, helping the group stay together. In the morning they sit upright to sunbathe. Males hold 'stink fights', smearing their tails with wrist-gland scent and waving them at rivals. In cold weather they huddle into 'lemur balls'.",
+  "conservation": "Endangered since 2018 after surveys pointed to sharp declines caused by habitat loss, hunting and the illegal pet trade.",
+  "evolution": "The ring-tailed lemur is the only member of its genus. Its closest relatives are the bamboo lemurs, and together they belong to Lemuridae. Its more ground-based life and strict breeding season are adaptations to the dry, unpredictable south of Madagascar.",
+  "specialFeatures": "Males hold 'stink fights', smearing their tails with scent from wrist glands and wafting them at rivals. Females outrank males and get first access to food.",
+  "relationships": [
+   {
+    "id": "crowned-lemur",
+    "note": "Same family (Lemuridae)"
+   },
+   {
+    "id": "red-bellied-lemur",
+    "note": "Same family (Lemuridae)"
+   },
+   {
+    "id": "madagascan-hissing-cockroach",
+    "note": "Fellow native of Madagascar"
+   }
+  ]
+ },
+ {
+  "id": "asian-small-clawed-otter",
+  "name": "Asian small-clawed otter",
+  "scientificName": "Aonyx cinereus",
+  "group": "Carnivores",
+  "iucnStatus": "VU",
+  "statusNote": null,
+  "range": "South and South-east Asia",
+  "biology": "Weighs 3–5 kg and measures 70–100 cm including the tail, making it the smallest otter. Its feet are only partly webbed and its claws are reduced to tiny nubs, leaving sensitive, dexterous fingers for feeling under stones and in mud. Broad, flat cheek teeth crush the shells of crabs, snails and mussels, and it also eats frogs and fish. Litters of one to six pups are born after about 60–64 days, and a pair can breed twice a year. It lives about 11–16 years in human care.",
+  "behaviour": "Lives in family groups of up to about 15, built around a monogamous pair whose older offspring help raise new litters. It is very vocal, with at least a dozen distinct calls. Otters groom each other, play constantly, and juggle pebbles with their paws; one study found they juggle more when hungry. They dig dens in riverbanks and are often active by day.",
+  "conservation": "Vulnerable from wetland drainage, pollution and the exotic pet trade. Listed on CITES Appendix I since 2019, which bans commercial international trade.",
+  "evolution": "Otters (Lutrinae) are a branch of the weasel family (Mustelidae) that returned to the water. The Asian small-clawed otter's closest relatives are the African clawless otters and the smooth-coated otter. Reduced claws and touch-sensitive hands evolved for hunting by feel rather than chasing fish.",
+  "specialFeatures": "Otters 'juggle' pebbles, which may help develop feeding skills. They have more than a dozen distinct calls.",
+  "relationships": [
+   {
+    "id": "red-panda",
+    "note": "Both are musteloids, the group that includes weasels, raccoons and skunks"
+   },
+   {
+    "id": "malayan-sun-bear",
+    "note": "Fellow caniform carnivore"
+   },
+   {
+    "id": "sloth-bear",
+    "note": "Fellow caniform carnivore"
+   }
+  ]
+ },
+ {
+  "id": "asiatic-lion",
+  "name": "Asiatic lion",
+  "scientificName": "Panthera leo leo",
+  "group": "Carnivores",
+  "iucnStatus": "VU",
+  "statusNote": "Lions as a species are Vulnerable; the Indian population was previously assessed separately as Endangered",
+  "range": "Gir Forest and surrounding area, Gujarat, India",
+  "biology": "Males weigh about 160–190 kg and females about 110–120 kg. Males have shorter, sparser manes than many African lions, so their ears stay visible. Prey includes chital and sambar deer, nilgai antelope, wild boar and sometimes livestock. Litters of one to four cubs are born after about 110 days. Wild Asiatic lions live about 16–18 years.",
+  "behaviour": "Unlike most African lions, adult males and females usually live apart. Females form small prides of two to five related lionesses with cubs, while males form coalitions of two or three that join the females mainly to mate or share large kills. They hunt mostly at night by stalking and ambush, and their roars carry several kilometres.",
+  "conservation": "Reduced to a tiny remnant in the early 1900s, the Gir population has recovered to roughly 900 animals in the 2025 census. Because all wild animals are in one region, disease is a serious risk; a 2018 distemper outbreak killed dozens. The EEP keeps a backup population in zoos.",
+  "evolution": "Modern lions arose in Africa and spread into Eurasia during the Ice Ages. Genetic studies divide living lions into a northern group (including Indian lions and the extinct Barbary lion of North Africa) and a southern group in East and southern Africa. The extinct cave lion of Ice Age Europe was a separate, closely related species that split from modern lions roughly 500,000 years ago.",
+  "specialFeatures": "The belly skin fold is rare in African lions and is a handy identifying feature.",
+  "relationships": [
+   {
+    "id": "sumatran-tiger",
+    "note": "Same genus (Panthera)"
+   },
+   {
+    "id": "cheetah",
+    "note": "Fellow big cat (Felidae)"
+   },
+   {
+    "id": "pallass-cat",
+    "note": "Fellow cat (Felidae)"
+   },
+   {
+    "id": "wildcat",
+    "note": "Fellow cat (Felidae)"
+   }
+  ]
+ },
+ {
+  "id": "binturong",
+  "name": "Binturong",
+  "scientificName": "Arctictis binturong",
+  "group": "Carnivores",
+  "iucnStatus": "VU",
+  "statusNote": null,
+  "range": "South and South-east Asia",
+  "biology": "Weighs 9–20 kg, and unusually among carnivores, females are larger than males. It has shaggy black fur, long white-tipped ear tufts and long whiskers. The muscular, prehensile tail has a bare tip for grip, and its ankles can rotate backwards so it can climb down head-first. It eats mostly fruit, especially figs, plus small animals, eggs and carrion. Litters of one to three are born after about 91 days. Binturongs can live over 20 years in human care.",
+  "behaviour": "Mainly nocturnal and arboreal, it climbs slowly and deliberately, using its tail as an anchor. It is mostly solitary or found in small family groups. It scent-marks branches with a gland under the tail, which gives the popcorn smell. Binturongs grunt, hiss and howl, and make chuckling sounds when content.",
+  "conservation": "Vulnerable from forest loss, hunting and the wildlife trade.",
+  "evolution": "A palm civet (Viverridae, subfamily Paradoxurinae) on the cat-like side of the carnivore family tree. It is the only species in its genus. The kinkajou of the Americas evolved a similar prehensile tail and fruit diet independently.",
+  "specialFeatures": "It smells like buttered popcorn. The scent comes from 2-AP in its urine, the same compound that gives popcorn its smell. Fig seeds that pass through its gut germinate better, making it an important seed disperser.",
+  "relationships": [
+   {
+    "id": "meerkat",
+    "note": "Fellow feliform carnivore"
+   },
+   {
+    "id": "asiatic-lion",
+    "note": "Fellow feliform carnivore"
+   },
+   {
+    "id": "pallass-cat",
+    "note": "Fellow feliform carnivore"
+   }
+  ]
+ },
+ {
+  "id": "cheetah",
+  "name": "Cheetah",
+  "scientificName": "Acinonyx jubatus",
+  "group": "Carnivores",
+  "iucnStatus": "VU",
+  "statusNote": null,
+  "range": "Sub-Saharan Africa, with a tiny population in Iran",
+  "biology": "Weighs 35–65 kg. A flexible spine lengthens each stride, and enlarged nasal passages, heart and lungs supply oxygen for sprints. Semi-retractable claws grip like running spikes, and the long tail acts as a rudder in sharp turns. Cheetahs prey mainly on gazelles and impala. Litters of three to five cubs are born after about 93 days, but cub mortality is very high. Wild cheetahs live about 10–12 years.",
+  "behaviour": "Females live alone with their cubs and raise them for about 18 months, bringing live prey so the cubs can practise hunting. Males often form lifelong coalitions, frequently of brothers, and hold territories. Cheetahs hunt by day to avoid lions and hyenas. A chase rarely lasts more than a minute, after which the cheetah must rest, and kills are often stolen by larger predators. Mothers call cubs with high chirps.",
+  "conservation": "Vulnerable, with roughly 7,000 adults left. Most live outside protected areas, where they face conflict with farmers, habitat loss and the illegal pet trade.",
+  "evolution": "The cheetah's closest living relatives are the puma and jaguarundi of the Americas. Larger extinct cheetahs lived across Eurasia, and the American 'cheetah' Miracinonyx evolved similar features in parallel. Genetic evidence shows two population crashes, the most recent around 10,000–12,000 years ago at the end of the last Ice Age, which left modern cheetahs with very little genetic diversity.",
+  "specialFeatures": "Cheetahs cannot roar; they chirp, purr and yelp. Black 'tear marks' are thought to cut sun glare.",
+  "relationships": [
+   {
+    "id": "asiatic-lion",
+    "note": "Fellow cat (Felidae)"
+   },
+   {
+    "id": "sumatran-tiger",
+    "note": "Fellow cat (Felidae)"
+   },
+   {
+    "id": "pallass-cat",
+    "note": "Fellow small-to-medium cat lineage"
+   },
+   {
+    "id": "wildcat",
+    "note": "Fellow cat (Felidae)"
+   }
+  ]
+ },
+ {
+  "id": "malayan-sun-bear",
+  "name": "Malayan sun bear",
+  "scientificName": "Helarctos malayanus",
+  "group": "Carnivores",
+  "iucnStatus": "VU",
+  "statusNote": null,
+  "range": "South-east Asia",
+  "biology": "Weighs 27–65 kg and is 1.2–1.5 m long, with short, sleek black fur suited to the tropics. It has large canines, inward-turned feet and long curved claws for climbing and ripping open wood. Its tongue reaches 20–25 cm for extracting honey and grubs. It eats termites, ants, beetle larvae, honey and fruit, especially figs. Usually one cub is born, blind and helpless, after about 95–100 days. Sun bears do not hibernate. They can live 25–30 years in human care.",
+  "behaviour": "Mostly solitary, and active by day or night depending on human disturbance. It is an excellent climber and sleeps or sunbathes on platforms of branches high in trees. It tears open trees to reach bees' nests. When threatened it rears up to show its chest patch. A 2019 study at a Malaysian sanctuary found sun bears precisely mimic each other's open-mouth play faces.",
+  "conservation": "Vulnerable from deforestation (including for oil palm), poaching for bile and body parts, and the pet trade.",
+  "evolution": "Part of the bear family (Ursidae), in the subfamily that includes black and brown bears. Its closest relatives are the sloth bear and Asian black bear. Bear genomes show plenty of past interbreeding between species, which makes their family tree hard to untangle.",
+  "specialFeatures": "Its loose skin may let it twist round and bite an attacker that grabs it. A 2019 study found sun bears copy each other's facial expressions, a social skill once thought limited to primates and dogs.",
+  "relationships": [
+   {
+    "id": "sloth-bear",
+    "note": "Fellow bear (Ursidae)"
+   },
+   {
+    "id": "red-panda",
+    "note": "Fellow caniform carnivore"
+   },
+   {
+    "id": "asian-small-clawed-otter",
+    "note": "Fellow caniform carnivore"
+   }
+  ]
+ },
+ {
+  "id": "meerkat",
+  "name": "Meerkat",
+  "scientificName": "Suricata suricatta",
+  "group": "Carnivores",
+  "iucnStatus": "LC",
+  "statusNote": null,
+  "range": "Kalahari and southern Africa",
+  "biology": "Weighs 0.6–1 kg. Dark eye patches reduce glare, long non-retractile claws dig efficiently, and it can close its ears while digging. It eats insects, larvae, scorpions, spiders and small vertebrates. The dominant female can have up to four litters a year, each of two to five pups born after about 70 days. Meerkats live 5–6 years in the wild and over 12 in human care.",
+  "behaviour": "Meerkats are cooperative breeders. Helpers babysit, feed and teach pups, and take turns as sentinels on high points. Alarm calls tell the group both the type of predator and how urgent the threat is. The dominant female may evict pregnant subordinates and kill their pups. Groups fight neighbouring mobs over territory. In the morning they warm up by standing upright with their thinly furred bellies to the sun.",
+  "conservation": "Least Concern.",
+  "evolution": "A mongoose (Herpestidae), part of the cat-like carnivores (Feliformia). Mongooses are most closely related to Madagascar's carnivores, such as the fossa. The meerkat is the only species in its genus.",
+  "specialFeatures": "Adults teach pups to handle scorpions: they first bring dead ones, then live ones with the stinger removed, then intact ones as the pup's skill grows. This was one of the first clear demonstrations of teaching in wild animals.",
+  "relationships": [
+   {
+    "id": "binturong",
+    "note": "Fellow feliform carnivore"
+   },
+   {
+    "id": "wildcat",
+    "note": "Fellow feliform carnivore"
+   },
+   {
+    "id": "cheetah",
+    "note": "Fellow feliform carnivore"
+   }
+  ]
+ },
+ {
+  "id": "pallass-cat",
+  "name": "Pallas's cat",
+  "scientificName": "Otocolobus manul",
+  "group": "Carnivores",
+  "iucnStatus": "LC",
+  "statusNote": null,
+  "range": "Central Asian steppe and mountains",
+  "biology": "Weighs 2.5–4.5 kg, with short legs, a flat face and the densest fur of any cat, longest on the belly and tail. Its pupils are round rather than slit-shaped. It hunts pikas, voles and gerbils, plus small birds. Breeding is once a year, with two to six kittens born after about 70 days. Pallas's cats live around 11 years in human care.",
+  "behaviour": "Solitary and most active at dawn and dusk. It hunts by stalking slowly or waiting at burrow entrances, and shelters in rock crevices and marmot burrows. It is a slow runner, relying on camouflage and keeping low among rocks rather than speed.",
+  "conservation": "Least Concern globally since 2020, but rare and patchy, and threatened locally by poisoning of pikas and loss of prey. It is hard to keep in zoos because its kittens are very vulnerable to toxoplasmosis.",
+  "evolution": "An old, distinct lineage within the small cats, related to the leopard cat group. Its round pupils, low ears and dense coat are adaptations to open, cold, high-altitude steppe.",
+  "specialFeatures": "Unlike most small cats it has round pupils, and its low-set ears let it peer over rocks without showing much of its head.",
+  "relationships": [
+   {
+    "id": "wildcat",
+    "note": "Fellow small cat"
+   },
+   {
+    "id": "cheetah",
+    "note": "Fellow cat (Felidae)"
+   },
+   {
+    "id": "asiatic-lion",
+    "note": "Fellow cat (Felidae)"
+   },
+   {
+    "id": "sumatran-tiger",
+    "note": "Fellow cat (Felidae)"
+   }
+  ]
+ },
+ {
+  "id": "red-panda",
+  "name": "Red panda",
+  "scientificName": "Ailurus fulgens",
+  "group": "Carnivores",
+  "iucnStatus": "EN",
+  "statusNote": null,
+  "range": "Eastern Himalaya and south-western China",
+  "biology": "Weighs 3–6 kg, with a body of 50–64 cm and a ringed tail of 28–48 cm. Thick fur covers even the soles of its feet. Bamboo makes up about 85–95% of its diet, and it picks the most nutritious young leaves and shoots, but it digests only about a quarter of what it eats. To save energy it has a very low metabolic rate and can lower it further in the cold, wrapping its tail around itself. One or two cubs are born after 112–158 days, the variation due to delayed implantation. Red pandas live about 15 years in human care.",
+  "behaviour": "Solitary and most active at dawn, dusk and night, spending much of the day asleep in trees. It scent-marks with glands under the tail and with urine. It communicates with twitters, huffs and squeals, and when threatened it stands on its hind legs with forelegs spread.",
+  "conservation": "Endangered. Habitat loss, poaching and inbreeding in fragmented forests are the main threats.",
+  "evolution": "The only living member of Ailuridae, in the musteloid group with raccoons, skunks and weasels. Fossils such as Pristinailurus from Tennessee show relatives once lived across Eurasia and North America. A 2020 genomic study proposed splitting it into two species, the Himalayan and Chinese red pandas. Its 'false thumb' evolved independently of the giant panda's.",
+  "specialFeatures": "It was named 'panda' about 50 years before the giant panda was described; the bigger animal borrowed the name.",
+  "relationships": [
+   {
+    "id": "asian-small-clawed-otter",
+    "note": "Fellow musteloid"
+   },
+   {
+    "id": "malayan-sun-bear",
+    "note": "Fellow caniform carnivore"
+   },
+   {
+    "id": "sloth-bear",
+    "note": "Fellow caniform carnivore"
+   }
+  ]
+ },
+ {
+  "id": "sloth-bear",
+  "name": "Sloth bear",
+  "scientificName": "Melursus ursinus",
+  "group": "Carnivores",
+  "iucnStatus": "VU",
+  "statusNote": null,
+  "range": "Indian subcontinent",
+  "biology": "Weighs 55–145 kg, with a shaggy black coat, a mane, a pale muzzle and a pale V- or Y-shaped chest mark. Its curved claws reach about 8 cm. It lacks the upper inner incisors, and its mobile lips and closable nostrils let it blow away dust and suck up termites. It eats termites, ants, fruit and honey. Usually two cubs are born in a den, and the mother then carries them on her back for months, unique among bears.",
+  "behaviour": "Mostly nocturnal where people are around, and solitary apart from mothers with cubs. Sloth bears are known for defending themselves fiercely when surprised and cause many injuries to people in India. They stand on their hind legs to look around or threaten, and do not hibernate.",
+  "conservation": "Vulnerable from habitat loss and conflict with people. The 'dancing bear' trade in India, once a major threat, ended around 2009.",
+  "evolution": "Part of the bear family (Ursidae), closest to the sun bear and Asian black bear. Its termite-eating adaptations evolved within the last few million years from a more generalist bear ancestor.",
+  "specialFeatures": "Its feeding can be heard up to 100 m away. It inspired Baloo in Kipling's The Jungle Book.",
+  "relationships": [
+   {
+    "id": "malayan-sun-bear",
+    "note": "Fellow bear (Ursidae)"
+   },
+   {
+    "id": "red-panda",
+    "note": "Fellow caniform carnivore"
+   },
+   {
+    "id": "asian-small-clawed-otter",
+    "note": "Fellow caniform carnivore"
+   }
+  ]
+ },
+ {
+  "id": "sumatran-tiger",
+  "name": "Sumatran tiger",
+  "scientificName": "Panthera tigris sondaica",
+  "group": "Carnivores",
+  "iucnStatus": "CR",
+  "statusNote": null,
+  "range": "Sumatra, Indonesia",
+  "biology": "Males weigh about 100–140 kg and females 75–110 kg. The coat is darker orange than mainland tigers, with narrow, close-set stripes that are often doubled, and males have a thick ruff around the face. Prey includes sambar deer, muntjac, wild boar and tapir. Litters of two or three cubs are born after about 103 days. Wild tigers live about 15 years.",
+  "behaviour": "Solitary and territorial, marking territory with urine spray, scrapes and claw marks. It stalks prey through dense rainforest and is a strong swimmer. Mothers raise cubs alone for about two years.",
+  "conservation": "Critically Endangered, with perhaps 400–600 left. Forest clearance for oil palm and pulp, poaching and conflict with villagers are the main threats.",
+  "evolution": "Tigers evolved in Asia over the last few million years. A 2018 genomic study confirmed six living subspecies. Sumatran tigers have been separated from mainland tigers since rising seas cut Sumatra off from the mainland, roughly 6,000–12,000 years ago, and they are the last of the Sunda island tigers after the Javan and Bali tigers became extinct.",
+  "specialFeatures": "Every tiger's stripes are unique, and the pattern is also on the skin underneath the fur.",
+  "relationships": [
+   {
+    "id": "asiatic-lion",
+    "note": "Same genus (Panthera)"
+   },
+   {
+    "id": "cheetah",
+    "note": "Fellow cat (Felidae)"
+   },
+   {
+    "id": "pallass-cat",
+    "note": "Fellow cat (Felidae)"
+   },
+   {
+    "id": "wildcat",
+    "note": "Fellow cat (Felidae)"
+   }
+  ]
+ },
+ {
+  "id": "wildcat",
+  "name": "Wildcat",
+  "scientificName": "Felis silvestris",
+  "group": "Carnivores",
+  "iucnStatus": "LC",
+  "statusNote": "Least Concern globally, but the Scottish population was judged no longer viable in the wild in 2019",
+  "range": "Europe; in Britain now only Scotland",
+  "biology": "Weighs 3–7 kg, heavier than most domestic cats. The thick coat has unbroken stripes and no spots on the flanks, and the dorsal stripe stops at the base of the tail. The bushy tail has three to five black rings and a blunt black tip. Wildcats hunt rabbits, voles, mice and birds. They breed once a year, with two to four kittens born after about 65 days.",
+  "behaviour": "Solitary and mostly active at dusk and night, holding territories marked with scent and scratches. Dens are in rock cairns, among tree roots or in old burrows. Wildcats are elusive, and kittens learn to hunt from their mother.",
+  "conservation": "Interbreeding with domestic cats, plus disease and road deaths, left Scotland's wildcats unable to survive in the wild. RZSS leads the Saving Wildcats project, which breeds wildcats at Highland Wildlife Park and began releasing them in the Cairngorms National Park in 2023.",
+  "evolution": "The European wildcat recolonised Britain after the last Ice Age and was cut off from the continent when rising seas created the Channel about 8,000 years ago. Domestic cats, descended from African wildcats, arrived in Britain around 2,000 years ago. Hybridisation between the two increased sharply in the 20th century as wildcat numbers fell.",
+  "specialFeatures": "Telling a true wildcat from a hybrid needs coat-pattern scoring and genetic tests, which the conservation programme uses to pick release animals.",
+  "relationships": [
+   {
+    "id": "pallass-cat",
+    "note": "Fellow small cat"
+   },
+   {
+    "id": "cheetah",
+    "note": "Fellow cat (Felidae)"
+   },
+   {
+    "id": "asiatic-lion",
+    "note": "Fellow cat (Felidae)"
+   },
+   {
+    "id": "sumatran-tiger",
+    "note": "Fellow cat (Felidae)"
+   },
+   {
+    "id": "highland-cow",
+    "note": "Fellow Scottish native"
+   }
+  ]
+ },
+ {
+  "id": "alpaca",
+  "name": "Alpaca",
+  "scientificName": "Vicugna pacos",
+  "group": "Hoofed mammals",
+  "iucnStatus": "DOM",
+  "statusNote": null,
+  "range": "Domesticated in the Andes of South America",
+  "biology": "Weighs 48–90 kg and stands about 90 cm at the shoulder. There are no upper front teeth, only a hard dental pad, and it chews the cud using a three-chambered stomach that extracts nutrients efficiently from sparse grass. There are two types: the fluffy huacaya and the suri, with long silky locks. Females ovulate in response to mating and give birth to a single cria after about 11.5 months. Alpacas live 15–20 years.",
+  "behaviour": "A herd animal that becomes stressed if kept alone. Alpacas hum softly to communicate and give a high alarm call at danger. Spitting is mostly aimed at other alpacas in squabbles over food or rank. The herd uses shared dung piles, which keeps pasture clean and reduces parasites.",
+  "conservation": "Domestic, so not assessed by the IUCN. Its wild ancestor, the vicuña, recovered from near-extinction and is now Least Concern.",
+  "evolution": "Camelids originated in North America about 45 million years ago. One branch, the Lamini, reached South America during the Great American Interchange about 3 million years ago and gave rise to the guanaco, vicuña, llama and alpaca. A 2001 genetic study confirmed the alpaca descends from the vicuña, not the guanaco as long assumed.",
+  "specialFeatures": "Alpaca fibre has no lanolin, so it needs little processing, and it comes in over 20 natural colours.",
+  "relationships": [
+   {
+    "id": "bactrian-camels",
+    "note": "Same family (Camelidae)"
+   },
+   {
+    "id": "nubian-giraffe",
+    "note": "Fellow even-toed hoofed mammal"
+   }
+  ]
+ },
+ {
+  "id": "bactrian-camels",
+  "name": "Bactrian camel",
+  "scientificName": "Camelus bactrianus",
+  "group": "Hoofed mammals",
+  "iucnStatus": "DOM",
+  "statusNote": "The domestic two-humped camel; its wild relative, Camelus ferus, is Critically Endangered",
+  "range": "Domesticated in Central Asia",
+  "biology": "Weighs 300–1,000 kg. Its two humps store fat, which shrink and flop over when the camel is starving. It has double rows of eyelashes, closable nostrils and broad padded feet for sand and snow. It can lose about a quarter of its body water without harm and eats thorny, salty plants other grazers avoid. A single calf is born after about 13 months. Camels can live around 40 years.",
+  "behaviour": "Lives in herds. In the winter breeding season males become aggressive, drool and grind their teeth. It sheds its thick winter coat in large clumps in spring.",
+  "conservation": "Domestic camels are common. The separate wild Bactrian camel numbers only around 1,000 in the Gobi and Lop Nur deserts and is Critically Endangered.",
+  "evolution": "Camels evolved in North America and crossed into Asia several million years ago. The domestic Bactrian camel and the wild Bactrian camel are separate lineages that diverged long before domestication, which happened around 4,500 years ago in Central Asia.",
+  "specialFeatures": "Wild Bactrian camels can survive by drinking salty water that other mammals cannot.",
+  "relationships": [
+   {
+    "id": "alpaca",
+    "note": "Same family (Camelidae)"
+   },
+   {
+    "id": "banteng",
+    "note": "Fellow even-toed hoofed mammal"
+   }
+  ]
+ },
+ {
+  "id": "bagot-goat",
+  "name": "Bagot goat",
+  "scientificName": "Capra hircus (breed)",
+  "group": "Hoofed mammals",
+  "iucnStatus": "DOM",
+  "statusNote": "Rare British breed monitored by the Rare Breeds Survival Trust",
+  "range": "Blithfield, Staffordshire, England",
+  "biology": "A small to medium goat with a long, shaggy coat, black at the front and white behind. Both sexes have horns, and males grow long horns that sweep back over the neck. Bagots browse rough grass, shrubs and trees. Females usually have one or two kids a year.",
+  "behaviour": "A hardy, independent breed that lived semi-wild in parkland for centuries and keeps a strong herd structure. Today Bagot goats are often used for conservation grazing, browsing back scrub on heathland and grassland.",
+  "conservation": "A rare breed with a small population, monitored by the Rare Breeds Survival Trust. Conservation grazing helps keep the breed going.",
+  "evolution": "Domestic goats descend from the bezoar goat and were domesticated in the Zagros Mountains about 10,000 years ago. The Bagot's earlier origins are unknown, but its long isolation at Blithfield makes it genetically distinct from modern commercial breeds.",
+  "specialFeatures": "Tradition says Richard II gave the herd to the Bagot family of Blithfield Hall in the 1380s, which would make it one of Britain's oldest breeds.",
+  "relationships": [
+   {
+    "id": "chinese-goral",
+    "note": "Same subfamily (Caprinae, the goat-antelopes)"
+   },
+   {
+    "id": "highland-cow",
+    "note": "Fellow British heritage breed"
+   },
+   {
+    "id": "banteng",
+    "note": "Same family (Bovidae)"
+   }
+  ]
+ },
+ {
+  "id": "banteng",
+  "name": "Banteng",
+  "scientificName": "Bos javanicus",
+  "group": "Hoofed mammals",
+  "iucnStatus": "EN",
+  "statusNote": null,
+  "range": "South-east Asia (Myanmar to Java and Borneo)",
+  "biology": "Weighs 400–900 kg and stands up to about 1.6 m. Bulls are blue-black with a shoulder hump; cows and calves are chestnut. Both sexes have white lower legs and a white rump patch. Banteng graze grasses and browse leaves, and can go long periods without drinking. A single calf is born after about 9–10 months.",
+  "behaviour": "Herds of up to about 40 cows and young are led by a single bull, while other males form bachelor groups or live alone. Where they are hunted, banteng become shy and active mainly at night.",
+  "conservation": "Endangered by hunting for horns and meat, habitat loss and disease from livestock. A large herd descended from introduced animals lives in northern Australia and may become an important genetic reserve.",
+  "evolution": "The banteng is closely related to the gaur and domestic cattle in the genus Bos. Bali cattle are domesticated banteng. Australia's wild herd grew from about 20 animals left at a failed settlement on the Cobourg Peninsula in 1849.",
+  "specialFeatures": "In 2003 banteng were among the first endangered animals to be cloned, from cells stored for decades in a frozen tissue bank.",
+  "relationships": [
+   {
+    "id": "highland-cow",
+    "note": "Same genus (Bos)"
+   },
+   {
+    "id": "lowland-nyala",
+    "note": "Same family (Bovidae)"
+   },
+   {
+    "id": "kirks-dik-dik",
+    "note": "Same family (Bovidae)"
+   },
+   {
+    "id": "visayan-warty-pig",
+    "note": "Fellow South-east Asian hoofed mammal"
+   }
+  ]
+ },
+ {
+  "id": "chinese-goral",
+  "name": "Chinese goral",
+  "scientificName": "Naemorhedus griseus",
+  "group": "Hoofed mammals",
+  "iucnStatus": "VU",
+  "statusNote": null,
+  "range": "Mountains of China, Myanmar, northern Thailand and Vietnam",
+  "biology": "Weighs 22–32 kg, with a grey-brown coat, a white throat patch and short conical horns curving back in both sexes. Splayed hooves with rubbery pads grip rock. It browses grasses, leaves, twigs and acorns. A single kid is born after about six to eight months.",
+  "behaviour": "Lives in small groups, while adult males are often solitary. Gorals are most active at dawn and dusk and escape predators by bounding up cliffs. They give a hissing sneeze as an alarm.",
+  "conservation": "Vulnerable from hunting for meat and traditional medicine, and loss of mountain forest.",
+  "evolution": "Gorals belong to Caprinae, the goat-antelopes, and their closest relatives are the serows. Genetic studies have split gorals into several species with separate mountain ranges.",
+  "specialFeatures": "Few zoos keep Chinese goral, so Edinburgh's group is a relatively rare chance to see one. Its splayed hooves with rubbery pads grip bare rock.",
+  "relationships": [
+   {
+    "id": "bagot-goat",
+    "note": "Same subfamily (Caprinae)"
+   },
+   {
+    "id": "banteng",
+    "note": "Same family (Bovidae)"
+   }
+  ]
+ },
+ {
+  "id": "grevys-zebra",
+  "name": "Grevy's zebra",
+  "scientificName": "Equus grevyi",
+  "group": "Hoofed mammals",
+  "iucnStatus": "EN",
+  "statusNote": null,
+  "range": "Northern Kenya and Ethiopia",
+  "biology": "Weighs 350–450 kg, with narrow stripes, a white belly, a broad dark stripe down the back and large round ears. It grazes tough grasses that cattle cannot digest well and can go up to five days without water, although nursing females need to drink daily. Foals are born after about 13 months, the longest pregnancy of any equid. Grevy's zebras live about 20 years in the wild.",
+  "behaviour": "Unlike plains zebras, Grevy's zebras do not form stable family herds. Dominant males hold large territories near water, and females with foals move freely between them. Non-territorial males form bachelor groups. Its call is a loud, donkey-like bray.",
+  "conservation": "Endangered, with about 3,000 left after a steep decline since the 1970s. Threats are competition with livestock for grazing and water, drought and hunting. Community programmes in Kenya now track and protect herds.",
+  "evolution": "The horse genus Equus evolved in North America about 4 million years ago and spread to Eurasia and Africa. Zebras form a group with the wild asses that is separate from true horses. Stripes evolved in this African lineage, and studies suggest their main benefit is deterring biting flies.",
+  "specialFeatures": "Each zebra's stripe pattern is unique, and researchers identify individuals from photos. Experiments suggest stripes confuse biting flies so they fail to land.",
+  "relationships": [
+   {
+    "id": "przewalskis-wild-horse",
+    "note": "Same genus (Equus)"
+   },
+   {
+    "id": "greater-one-horned-rhinoceros",
+    "note": "Fellow odd-toed hoofed mammal (Perissodactyla)"
+   }
+  ]
+ },
+ {
+  "id": "greater-one-horned-rhinoceros",
+  "name": "Greater one-horned rhinoceros",
+  "scientificName": "Rhinoceros unicornis",
+  "group": "Hoofed mammals",
+  "iucnStatus": "VU",
+  "statusNote": null,
+  "range": "Northern India and southern Nepal",
+  "biology": "Males weigh around 2,000–2,200 kg and females around 1,600 kg. It has a single horn of 20–60 cm and thick skin folds studded with wart-like bumps. Its semi-prehensile upper lip grasps tall grasses, and it also eats aquatic plants, fruit and leaves. A single calf is born after about 15–16 months. Rhinos can live around 40 years.",
+  "behaviour": "Mostly solitary. Adult males fight with their long, sharp lower incisor tusks rather than their horns. Rhinos use shared dung piles to exchange scent information, wallow in mud to cool off and swim well. They have about ten distinct calls.",
+  "conservation": "A conservation success: from fewer than 200 in the early 1900s to over 4,000 today, mostly thanks to strict protection in parks such as Kaziranga and Chitwan. Poaching for horn remains a threat.",
+  "evolution": "Rhinos are odd-toed hoofed mammals (Perissodactyla) with horses and tapirs. The family arose about 50 million years ago, and extinct relatives include the woolly rhino and the hornless giant Paraceratherium. The closest living relative of this species is the Javan rhino.",
+  "specialFeatures": "Its horn is made of keratin, like fingernails. Rhinos use shared dung heaps as scent 'noticeboards'.",
+  "relationships": [
+   {
+    "id": "grevys-zebra",
+    "note": "Fellow odd-toed hoofed mammal (Perissodactyla)"
+   },
+   {
+    "id": "przewalskis-wild-horse",
+    "note": "Fellow odd-toed hoofed mammal (Perissodactyla)"
+   }
+  ]
+ },
+ {
+  "id": "highland-cow",
+  "name": "Highland cow",
+  "scientificName": "Bos taurus (breed)",
+  "group": "Hoofed mammals",
+  "iucnStatus": "DOM",
+  "statusNote": null,
+  "range": "Scottish Highlands and Western Isles",
+  "biology": "Cows weigh about 500 kg and bulls about 800 kg. Its double coat combines an oily outer layer that sheds rain with a soft woolly undercoat, so it needs less body fat to stay warm. Coat colours include red, black, yellow, dun, white and brindle. Highland cows calve easily outdoors and often keep breeding into their late teens.",
+  "behaviour": "A docile animal that lives in folds and is protective of its calves. It grazes and browses rough upland vegetation that other cattle avoid, which makes it useful for conservation grazing.",
+  "conservation": "A domestic breed, now popular worldwide. Its herd book was started in 1884.",
+  "evolution": "Domestic cattle descend from the aurochs, a wild ox domesticated in the Near East about 10,500 years ago. The Highland breed developed in the Highlands and Islands, originally as a smaller island type and a larger mainland type, and has been recorded in a herd book since 1884.",
+  "specialFeatures": "The long fringe ('dossan') protects its eyes from wind, rain and insects.",
+  "relationships": [
+   {
+    "id": "banteng",
+    "note": "Same genus (Bos)"
+   },
+   {
+    "id": "bagot-goat",
+    "note": "Fellow British heritage breed"
+   },
+   {
+    "id": "wildcat",
+    "note": "Fellow Scottish native"
+   }
+  ]
+ },
+ {
+  "id": "kirks-dik-dik",
+  "name": "Kirk's dik-dik",
+  "scientificName": "Madoqua kirkii",
+  "group": "Hoofed mammals",
+  "iucnStatus": "LC",
+  "statusNote": null,
+  "range": "East Africa and south-west Africa",
+  "biology": "Weighs 3–7 kg and stands 35–45 cm tall, with females slightly larger. Males have short ridged horns. A large scent gland sits in front of each eye. It selectively browses leaves, shoots and fruit. A single fawn is born after about six months, and females can breed twice a year.",
+  "behaviour": "Pairs defend territories of a few hectares, marking them with dung piles, urine and eye-gland secretions. Males cover their partner's dung with their own. When alarmed, dik-diks freeze, then run in zigzags while giving a whistling 'zik-zik' call.",
+  "conservation": "Least Concern.",
+  "evolution": "A dwarf antelope within Bovidae. Populations of Kirk's dik-dik have different chromosome numbers, which suggests it may be several distinct species.",
+  "specialFeatures": "Its long, flexible snout works as a cooling system, pumping blood through it to lose heat. The name comes from the female's alarm call.",
+  "relationships": [
+   {
+    "id": "lowland-nyala",
+    "note": "Fellow African antelope"
+   },
+   {
+    "id": "banteng",
+    "note": "Same family (Bovidae)"
+   },
+   {
+    "id": "nubian-giraffe",
+    "note": "Fellow African ruminant"
+   }
+  ]
+ },
+ {
+  "id": "lowland-nyala",
+  "name": "Lowland nyala",
+  "scientificName": "Tragelaphus angasii",
+  "group": "Hoofed mammals",
+  "iucnStatus": "LC",
+  "statusNote": null,
+  "range": "South-eastern Africa",
+  "biology": "Males weigh about 100–125 kg and females about 55–68 kg. Males have spiral horns up to about 80 cm, a shaggy fringe, a white chevron between the eyes and orange lower legs. Females and young are chestnut with white stripes. Nyala browse leaves, fruit and flowers and graze fresh grass. A single calf is born after about seven months.",
+  "behaviour": "Females and young form small herds, while males wander more loosely. Groups mix at waterholes. Males display by lowering the head, raising a crest of hair along the back and walking slowly side-on to show their size. Nyala stay in thick cover and sometimes follow baboons and monkeys to eat fruit they drop.",
+  "conservation": "Least Concern, and common in protected areas.",
+  "evolution": "A spiral-horned antelope (tribe Tragelaphini), which radiated across Africa over the last several million years into species from the small bushbuck to the giant eland. The nyala is sometimes placed in its own genus.",
+  "specialFeatures": "Males and females look so different that early naturalists were unsure they belonged to the same species.",
+  "relationships": [
+   {
+    "id": "kirks-dik-dik",
+    "note": "Fellow African antelope"
+   },
+   {
+    "id": "banteng",
+    "note": "Same family (Bovidae)"
+   },
+   {
+    "id": "nubian-giraffe",
+    "note": "Fellow African ruminant"
+   }
+  ]
+ },
+ {
+  "id": "nubian-giraffe",
+  "name": "Nubian giraffe",
+  "scientificName": "Giraffa camelopardalis camelopardalis",
+  "group": "Hoofed mammals",
+  "iucnStatus": "CR",
+  "statusNote": null,
+  "range": "South Sudan, Ethiopia, Uganda and Kenya",
+  "biology": "Males reach about 5.5 m and 1,200 kg; females are shorter. Nubian giraffes have large chestnut patches outlined by clean white lines, and unspotted lower legs. The dark tongue, up to about 45 cm long, may resist sunburn. A giraffe eats around 30 kg of leaves a day. A single calf is born after about 15 months and drops around 1.5 m at birth. Giraffes live about 25 years.",
+  "behaviour": "Herds are loose and change membership often. Males compete by 'necking', swinging their heads into each other. Giraffes sleep very little, often standing up. Recordings made in zoos in 2015 captured low humming sounds at night, which may be a form of communication.",
+  "conservation": "The Nubian subspecies is Critically Endangered after major losses to war, poaching and habitat loss. Rothschild's giraffe, the form most common in zoos, is now treated as Nubian giraffe.",
+  "evolution": "Giraffes and the okapi split around 11–12 million years ago, and early giraffids had short necks. The fossil Samotherium shows a neck intermediate in length, an early step toward the modern giraffe. Genetic studies since 2016 suggest four giraffe species: northern (which includes the Nubian), southern, reticulated and Masai.",
+  "specialFeatures": "Both sexes have horn-like ossicones covered in skin. Edinburgh's herd uses a raised walkway that lets visitors meet the giraffes at eye level.",
+  "relationships": [
+   {
+    "id": "southern-pudu",
+    "note": "Fellow ruminant"
+   },
+   {
+    "id": "kirks-dik-dik",
+    "note": "Fellow African ruminant"
+   },
+   {
+    "id": "lowland-nyala",
+    "note": "Fellow African ruminant"
+   }
+  ]
+ },
+ {
+  "id": "przewalskis-wild-horse",
+  "name": "Przewalski's wild horse",
+  "scientificName": "Equus ferus przewalskii",
+  "group": "Hoofed mammals",
+  "iucnStatus": "EN",
+  "statusNote": null,
+  "range": "Mongolia and northern China",
+  "biology": "Stands about 1.3 m and weighs 250–350 kg. The coat is dun with dark legs, a dark stripe down the back and a pale muzzle. The stiff, upright mane is shed and regrown each year. It grazes grasses and herbs. A single foal is born after about 11 months.",
+  "behaviour": "Lives in harems of one stallion with several mares and their foals, while young males form bachelor groups. Stallions fight by rearing, biting and kicking. Horses groom each other to strengthen bonds and spend most of the day grazing.",
+  "conservation": "Declared extinct in the wild in 1969. Every living horse descends from about 12–15 animals in zoos. Reintroductions to Mongolia began in 1992, and the IUCN moved it from Extinct in the Wild to Critically Endangered (2008) and then Endangered (2011).",
+  "evolution": "Belongs to the horse genus Equus. A 2018 genetic study found Przewalski's horses are descended from horses kept by the Botai culture in Kazakhstan about 5,500 years ago, which suggests no truly wild horses survive. Domestic horses come from a different lineage.",
+  "specialFeatures": "A rare example of an animal saved purely by zoo breeding and then returned to the wild.",
+  "relationships": [
+   {
+    "id": "grevys-zebra",
+    "note": "Same genus (Equus)"
+   },
+   {
+    "id": "greater-one-horned-rhinoceros",
+    "note": "Fellow odd-toed hoofed mammal (Perissodactyla)"
+   }
+  ]
+ },
+ {
+  "id": "pygmy-hippo",
+  "name": "Pygmy hippo",
+  "scientificName": "Choeropsis liberiensis",
+  "group": "Hoofed mammals",
+  "iucnStatus": "EN",
+  "statusNote": null,
+  "range": "West Africa, mainly Liberia",
+  "biology": "Weighs 180–275 kg and stands 75–100 cm tall. Compared with the common hippo, its legs are longer, its feet less webbed and its eyes set on the sides of the head. It eats ferns, leaves, fruit and roots. A single calf is born after about six to seven months. Pygmy hippos can live over 35 years in human care.",
+  "behaviour": "Solitary or in pairs, and active at night. It follows tunnel-like trails through dense vegetation and rests by day in water, wallows or riverbank hollows. It spreads its dung by wagging its tail, probably as a scent marker.",
+  "conservation": "Endangered, with perhaps 2,000–2,500 left, threatened by logging, mining and hunting.",
+  "evolution": "Hippos and whales share a common ancestor that lived about 55 million years ago. Pygmy hippos on Mediterranean islands evolved separately from the common hippo by island dwarfing. The living pygmy hippo's forest lifestyle may be closer to the ancestral way of life than the common hippo's.",
+  "specialFeatures": "Its skin secretes a reddish fluid, sometimes called 'blood sweat', that works as sunscreen and may fight bacteria.",
+  "relationships": [
+   {
+    "id": "red-river-hog",
+    "note": "Fellow even-toed hoofed mammal; pigs are more distant relatives than whales"
+   },
+   {
+    "id": "visayan-warty-pig",
+    "note": "Fellow even-toed hoofed mammal"
+   }
+  ]
+ },
+ {
+  "id": "red-river-hog",
+  "name": "Red river hog",
+  "scientificName": "Potamochoerus porcus",
+  "group": "Hoofed mammals",
+  "iucnStatus": "LC",
+  "statusNote": null,
+  "range": "West and Central African forests",
+  "biology": "Weighs 45–115 kg, with a red-orange coat, black legs, white face markings and long, tufted ears. It eats roots, bulbs, fruit, insects and eggs. Litters of three to six striped piglets are born after about four months.",
+  "behaviour": "Lives in groups called sounders of 6–20 led by a dominant boar, which defends the group. It is mostly active at night. Red river hogs sometimes follow monkeys to eat the fruit they drop.",
+  "conservation": "Least Concern, though hunted for bushmeat.",
+  "evolution": "Part of the pig family (Suidae). African pigs radiated in parallel with Asian ones, and the red river hog's closest relative is the bushpig.",
+  "specialFeatures": "Its rooting turns soil and spreads seeds, so it shapes the forest floor.",
+  "relationships": [
+   {
+    "id": "visayan-warty-pig",
+    "note": "Same family (Suidae)"
+   },
+   {
+    "id": "pygmy-hippo",
+    "note": "Fellow even-toed hoofed mammal"
+   }
+  ]
+ },
+ {
+  "id": "southern-pudu",
+  "name": "Southern pudu",
+  "scientificName": "Pudu puda",
+  "group": "Hoofed mammals",
+  "iucnStatus": "NT",
+  "statusNote": null,
+  "range": "Temperate rainforests of southern Chile and Argentina",
+  "biology": "Stands 35–40 cm tall and weighs about 7–10 kg. Males grow simple spike antlers 5–10 cm long, shed each year. It browses leaves, bark, buds and fallen fruit. A single spotted fawn is born after about seven months.",
+  "behaviour": "Solitary and shy, active at dawn and dusk. Pudu keep small territories with regular trails through the undergrowth. When threatened they run in zigzags and bark. They stand on their hind legs or climb fallen trunks to reach leaves.",
+  "conservation": "Near Threatened by habitat loss, dogs and road traffic.",
+  "evolution": "New World deer reached South America about 3 million years ago when the Isthmus of Panama formed. The two pudu species evolved small size to suit dense forest, a pattern seen independently in Asia's muntjacs.",
+  "specialFeatures": "It climbs onto fallen trunks and bends saplings down to reach leaves.",
+  "relationships": [
+   {
+    "id": "visayan-spotted-deer",
+    "note": "Same family (Cervidae)"
+   },
+   {
+    "id": "nubian-giraffe",
+    "note": "Fellow ruminant"
+   },
+   {
+    "id": "capybara",
+    "note": "Fellow South American mammal"
+   }
+  ]
+ },
+ {
+  "id": "visayan-spotted-deer",
+  "name": "Visayan spotted deer",
+  "scientificName": "Rusa alfredi",
+  "group": "Hoofed mammals",
+  "iucnStatus": "EN",
+  "statusNote": null,
+  "range": "Panay and Negros, Philippines",
+  "biology": "A small deer under 1 m tall, with a dark brown coat and cream-buff spots. Males grow short antlers with three tines. It grazes and browses in forest. A single fawn is born after about eight months.",
+  "behaviour": "Mostly nocturnal, living alone or in small groups. It is elusive and hard to observe in the wild.",
+  "conservation": "Endangered and among the rarest deer in the world, having lost about 95% of its range to logging and farming. Zoo breeding programmes support breeding centres in the Philippines.",
+  "evolution": "A member of the genus Rusa, related to the Philippine brown deer. Like many Philippine species, it evolved in isolation on islands.",
+  "specialFeatures": "It is the only deer in the region to keep a spotted coat as an adult.",
+  "relationships": [
+   {
+    "id": "visayan-warty-pig",
+    "note": "Lives on the same Philippine islands"
+   },
+   {
+    "id": "southern-pudu",
+    "note": "Same family (Cervidae)"
+   }
+  ]
+ },
+ {
+  "id": "visayan-warty-pig",
+  "name": "Visayan warty pig",
+  "scientificName": "Sus cebifrons",
+  "group": "Hoofed mammals",
+  "iucnStatus": "CR",
+  "statusNote": null,
+  "range": "Negros and Panay, Philippines",
+  "biology": "A small wild pig with three pairs of fleshy warts on the face and short tusks in males. It eats roots, tubers, fruit and earthworms. Litters of two to four striped piglets are born after about four months.",
+  "behaviour": "Lives in small groups of four to six and is mostly active at night. Females build nests of grass and leaves to give birth. Pigs wallow in mud to keep cool. In the breeding season males grow a long, spiky mane.",
+  "conservation": "Critically Endangered. It has vanished from four of the six islands it once lived on because of forest loss, hunting and interbreeding with domestic pigs.",
+  "evolution": "Part of the genus Sus with the Eurasian wild boar. Several warty pig species evolved on islands across South-east Asia, separated by rising and falling sea levels during the Ice Ages.",
+  "specialFeatures": "The male's mane looks like a punk mohawk.",
+  "relationships": [
+   {
+    "id": "visayan-spotted-deer",
+    "note": "Lives on the same Philippine islands"
+   },
+   {
+    "id": "red-river-hog",
+    "note": "Same family (Suidae)"
+   }
+  ]
+ },
+ {
+  "id": "queensland-koala",
+  "name": "Queensland koala",
+  "scientificName": "Phascolarctos cinereus",
+  "group": "Marsupials",
+  "iucnStatus": "VU",
+  "statusNote": "Vulnerable globally; koalas in Queensland, New South Wales and the ACT have been listed as Endangered under Australian law since 2022",
+  "range": "Eastern Australia",
+  "biology": "Northern koalas are smaller (about 4–8 kg) than southern koalas (up to about 14 kg) and have shorter, lighter grey fur. A koala eats about 500 g of eucalyptus leaves a day, choosing from a few dozen species, and digests them in a caecum about 2 m long. The joey is born after about 35 days, no bigger than a jellybean, and lives in the pouch for about six months. Before weaning it eats a special soft dropping called pap from its mother, which gives it the gut microbes it needs. Koalas live about 13–18 years.",
+  "behaviour": "Solitary, with overlapping home ranges. In the breeding season males bellow loudly, using an extra pair of vocal folds that produce sounds much deeper than expected for its size. Koalas sleep 18–22 hours a day and get most of their water from leaves.",
+  "conservation": "Northern koalas face land clearing, drought, bushfires, dogs, traffic and chlamydia. Edinburgh holds the UK's only koalas.",
+  "evolution": "Koalas and wombats form the group Vombatiformes and split around 30–40 million years ago. Fossil koalas show the family was once more diverse. The koala genome, published in 2018, revealed extra copies of genes for detoxifying eucalyptus.",
+  "specialFeatures": "Koalas have fingerprints almost identical to humans', an example of convergent evolution.",
+  "relationships": [
+   {
+    "id": "swamp-wallaby",
+    "note": "Fellow Australian marsupial"
+   },
+   {
+    "id": "western-grey-kangaroo",
+    "note": "Fellow Australian marsupial"
+   },
+   {
+    "id": "southern-cassowary",
+    "note": "Fellow native of eastern Australia"
+   },
+   {
+    "id": "macleays-spectre",
+    "note": "Fellow native of eastern Australia"
+   }
+  ]
+ },
+ {
+  "id": "swamp-wallaby",
+  "name": "Swamp wallaby",
+  "scientificName": "Wallabia bicolor",
+  "group": "Marsupials",
+  "iucnStatus": "LC",
+  "statusNote": null,
+  "range": "Eastern Australia",
+  "biology": "Weighs 10–20 kg, with dark brown to black fur, a rusty belly and a pale cheek stripe. It browses shrubs, ferns and fungi, including plants toxic to other animals. Females are pregnant almost continuously, and the joey stays in the pouch for eight to nine months.",
+  "behaviour": "Solitary and active at night and at dusk. It hops with its head low and tail held straight out behind.",
+  "conservation": "Least Concern.",
+  "evolution": "The only species in the genus Wallabia, separate from the kangaroos. Females have 10 chromosomes and males 11, among the lowest numbers in mammals.",
+  "specialFeatures": "Females can conceive a new embryo before giving birth to the previous joey, so an adult female may be pregnant almost all her life.",
+  "relationships": [
+   {
+    "id": "western-grey-kangaroo",
+    "note": "Same family (Macropodidae)"
+   },
+   {
+    "id": "queensland-koala",
+    "note": "Fellow Australian marsupial"
+   }
+  ]
+ },
+ {
+  "id": "western-grey-kangaroo",
+  "name": "Western grey kangaroo",
+  "scientificName": "Macropus fuliginosus",
+  "group": "Marsupials",
+  "iucnStatus": "LC",
+  "statusNote": null,
+  "range": "Southern Australia",
+  "biology": "Males weigh up to about 54 kg and females about 28 kg, with brown-grey fur. It grazes grasses. The joey is born after about 30 days, weighing under 1 g, and crawls to the pouch. It leaves the pouch at about 10 months. Kangaroos can live about 20 years in human care.",
+  "behaviour": "Lives in mobs. Males box to establish dominance, and kangaroos thump a hind foot on the ground to warn of danger. In hot weather they lick their forearms to cool down through evaporation.",
+  "conservation": "Least Concern.",
+  "evolution": "Part of Macropus, the large kangaroos, which spread as Australia dried and grasslands expanded over the last few million years. Its sister species is the eastern grey kangaroo. Extinct giant kangaroos such as Procoptodon may have walked rather than hopped.",
+  "specialFeatures": "Males have a strong curry-like smell, earning the nickname 'stinker'. A female can have a joey at foot, one in the pouch and a paused embryo waiting at the same time.",
+  "relationships": [
+   {
+    "id": "swamp-wallaby",
+    "note": "Same family (Macropodidae)"
+   },
+   {
+    "id": "queensland-koala",
+    "note": "Fellow Australian marsupial"
+   },
+   {
+    "id": "southern-cassowary",
+    "note": "Fellow Australian native"
+   }
+  ]
+ },
+ {
+  "id": "cape-porcupine",
+  "name": "Cape porcupine",
+  "scientificName": "Hystrix africaeaustralis",
+  "group": "Other mammals",
+  "iucnStatus": "LC",
+  "statusNote": null,
+  "range": "Central and southern Africa",
+  "biology": "Weighs 10–24 kg, with quills up to about 50 cm. Short, hollow quills on the tail rattle when shaken. It eats bulbs, roots, tubers, bark and fallen fruit, and gnaws bones for minerals. Litters of one to three are born after about 94 days; the young are born with soft quills that harden within hours.",
+  "behaviour": "Nocturnal, and lives in monogamous pairs and family groups that share burrows and caves. When threatened it stamps, rattles its quills and grunts, then charges backwards into the attacker.",
+  "conservation": "Least Concern, though it is persecuted as a crop pest.",
+  "evolution": "Old World porcupines (Hystricidae) and New World porcupines evolved quills independently. Both belong to the hystricognath rodents, which also include capybaras and guinea pigs.",
+  "specialFeatures": "It rattles hollow tail quills as a warning, and if that fails it runs backwards into predators. Quills cannot be shot out.",
+  "relationships": [
+   {
+    "id": "capybara",
+    "note": "Fellow hystricognath rodent"
+   },
+   {
+    "id": "meerkat",
+    "note": "Fellow southern African mammal"
+   }
+  ]
+ },
+ {
+  "id": "capybara",
+  "name": "Capybara",
+  "scientificName": "Hydrochoerus hydrochaeris",
+  "group": "Other mammals",
+  "iucnStatus": "LC",
+  "statusNote": null,
+  "range": "South America east of the Andes",
+  "biology": "Weighs 35–66 kg. Its coarse, sparse hair dries quickly, its feet are partly webbed, and its teeth grow continuously. It grazes grasses and water plants, and in the morning eats its own soft droppings to extract more nutrients. Males have a large scent gland on the snout. Litters of about four are born after about 150 days, and the young start grazing within days.",
+  "behaviour": "Lives in groups of 10–20, which can join into groups of 100 in the dry season, led by a dominant male. Capybaras purr, bark, whistle and click. Females in a group nurse each other's young.",
+  "conservation": "Least Concern, and common across most of its range.",
+  "evolution": "A cavy, closely related to guinea pigs. Extinct relatives, such as Neochoerus, were even bigger.",
+  "specialFeatures": "Its webbed toes help it swim, and it can stay underwater for several minutes. Other animals, including birds and monkeys, often rest on it.",
+  "relationships": [
+   {
+    "id": "cape-porcupine",
+    "note": "Fellow hystricognath rodent"
+   },
+   {
+    "id": "giant-anteater",
+    "note": "Fellow South American mammal"
+   },
+   {
+    "id": "southern-pudu",
+    "note": "Fellow South American mammal"
+   }
+  ]
+ },
+ {
+  "id": "giant-anteater",
+  "name": "Giant anteater",
+  "scientificName": "Myrmecophaga tridactyla",
+  "group": "Other mammals",
+  "iucnStatus": "VU",
+  "statusNote": null,
+  "range": "Central and South America",
+  "biology": "Weighs 22–40 kg. Its long skull holds a tongue about 60 cm long that is anchored at the breastbone and coated with sticky saliva. It has no teeth; a muscular stomach grinds its food. Powerful front claws open termite mounds. A single pup is born after about 190 days and rides on its mother's back, where its stripe lines up with hers as camouflage.",
+  "behaviour": "Solitary. It finds food by smell, which is about 40 times more sensitive than a human's. It feeds for about a minute at each nest, so colonies recover. When threatened it rears up and slashes with its claws.",
+  "conservation": "Vulnerable from habitat loss, fires, road deaths and hunting.",
+  "evolution": "Anteaters, with sloths and armadillos, form Xenarthra, one of the four major groups of placental mammals, which evolved in South America while it was an island continent.",
+  "specialFeatures": "It walks on its knuckles to protect its long front claws. Its body temperature, about 33°C, is one of the lowest of any land mammal. Young ride on their mother's back.",
+  "relationships": [
+   {
+    "id": "linnes-two-toed-sloth",
+    "note": "Fellow xenarthran"
+   },
+   {
+    "id": "large-hairy-armadillo",
+    "note": "Fellow xenarthran"
+   },
+   {
+    "id": "southern-three-banded-armadillo",
+    "note": "Fellow xenarthran"
+   }
+  ]
+ },
+ {
+  "id": "large-hairy-armadillo",
+  "name": "Large hairy armadillo",
+  "scientificName": "Chaetophractus villosus",
+  "group": "Other mammals",
+  "iucnStatus": "LC",
+  "statusNote": null,
+  "range": "Argentina, Chile, Bolivia and Paraguay",
+  "biology": "Weighs about 2 kg, with 18 bony bands, seven or eight of them movable, and coarse hair between them. It eats insects, plants and carrion. Twins are usually born after about 60–75 days.",
+  "behaviour": "Solitary. It is mostly nocturnal in summer and active by day in winter. It digs burrows and can bury itself quickly to escape predators, and it squeals loudly when handled.",
+  "conservation": "Least Concern.",
+  "evolution": "A xenarthran. Ancient DNA shows the giant glyptodonts belong within the armadillo family tree.",
+  "specialFeatures": "It digs into animal carcasses to eat the maggots inside.",
+  "relationships": [
+   {
+    "id": "southern-three-banded-armadillo",
+    "note": "Fellow armadillo"
+   },
+   {
+    "id": "giant-anteater",
+    "note": "Fellow xenarthran"
+   },
+   {
+    "id": "linnes-two-toed-sloth",
+    "note": "Fellow xenarthran"
+   }
+  ]
+ },
+ {
+  "id": "linnes-two-toed-sloth",
+  "name": "Linne's two-toed sloth",
+  "scientificName": "Choloepus didactylus",
+  "group": "Other mammals",
+  "iucnStatus": "LC",
+  "statusNote": null,
+  "range": "Northern South America",
+  "biology": "Weighs 4–8 kg. Its hair grows from belly to back, so rain runs off while it hangs upside down, and green algae living in the fur help it blend in. Its metabolism runs at about half the expected rate, and its body temperature varies between about 30 and 34°C. It has two long hooked claws on each front foot and three on each back foot. A single young is born after about 11 months.",
+  "behaviour": "Nocturnal and solitary. It sleeps about 15 hours a day, swims surprisingly well, and climbs down about once a week to go to the toilet.",
+  "conservation": "Least Concern, but affected by deforestation and the pet trade. Edinburgh has Scotland's only sloths.",
+  "evolution": "Sloths descend from a diverse group that included ground sloths as large as elephants, such as Megatherium. DNA from fossils shows the two living sloth genera come from different branches of that group, so they became tree-dwellers independently.",
+  "specialFeatures": "Algae grow in its fur and help camouflage it. It climbs down about once a week to go to the toilet.",
+  "relationships": [
+   {
+    "id": "giant-anteater",
+    "note": "Fellow xenarthran"
+   },
+   {
+    "id": "large-hairy-armadillo",
+    "note": "Fellow xenarthran"
+   },
+   {
+    "id": "southern-three-banded-armadillo",
+    "note": "Fellow xenarthran"
+   }
+  ]
+ },
+ {
+  "id": "southern-three-banded-armadillo",
+  "name": "Southern three-banded armadillo",
+  "scientificName": "Tolypeutes matacus",
+  "group": "Other mammals",
+  "iucnStatus": "NT",
+  "statusNote": null,
+  "range": "Bolivia, Brazil, Paraguay and Argentina",
+  "biology": "Weighs about 1–1.6 kg and has three movable bands. The shell sits loosely on the body, leaving an air gap. When it rolls up, the head and tail plates lock the ball shut. It eats ants, termites, beetle larvae and fruit. A single young is born after about 120 days with a soft shell and can roll up within hours.",
+  "behaviour": "Solitary. It trots on the tips of its front claws and rarely digs its own burrow. When attacked it rolls up and snaps shut on the predator's paw or snout.",
+  "conservation": "Near Threatened by habitat loss in the Gran Chaco and hunting.",
+  "evolution": "A xenarthran. Its closest relative is the Brazilian three-banded armadillo, the only other armadillo that can roll into a complete ball.",
+  "specialFeatures": "One of only two armadillos that can roll fully into a ball, with the head and tail plates locking together.",
+  "relationships": [
+   {
+    "id": "large-hairy-armadillo",
+    "note": "Fellow armadillo"
+   },
+   {
+    "id": "giant-anteater",
+    "note": "Fellow xenarthran"
+   },
+   {
+    "id": "linnes-two-toed-sloth",
+    "note": "Fellow xenarthran"
+   }
+  ]
+ },
+ {
+  "id": "chilean-flamingo",
+  "name": "Chilean flamingo",
+  "scientificName": "Phoenicopterus chilensis",
+  "group": "Birds",
+  "iucnStatus": "NT",
+  "statusNote": null,
+  "range": "Southern South America",
+  "biology": "Stands about 110–130 cm and weighs 2–3.5 kg, with grey legs and pink 'knees', which are actually its ankles. The bill bends sharply in the middle and is lined with fine plates; the thick tongue pumps water in and out to filter food. A single egg is laid on a mud cone, and both parents incubate for 27–31 days. The grey chick joins a crèche. Flamingos can live over 40 years in human care.",
+  "behaviour": "Breeds in colonies of thousands. Group displays such as head-flagging, marching and wing salutes synchronise breeding, so flamingos need crowds to nest successfully. They often rest on one leg.",
+  "conservation": "Near Threatened by egg collecting, mining and changes in water levels at its breeding lakes.",
+  "evolution": "Flamingos and grebes together form the group Mirandornithes. Fossil relatives such as Palaelodus may have swum and dived more like grebes.",
+  "specialFeatures": "The pink colour comes from carotenoid pigments in its food. Both parents feed the chick a 'crop milk' made in the upper gut, which pigeons also make.",
+  "relationships": [
+   {
+    "id": "pied-imperial-pigeon",
+    "note": "Pigeons also produce crop milk, an example of convergent evolution"
+   },
+   {
+    "id": "socorro-dove",
+    "note": "Pigeons also produce crop milk"
+   },
+   {
+    "id": "eastern-white-pelican",
+    "note": "Fellow waterbird"
+   }
+  ]
+ },
+ {
+  "id": "east-african-crowned-crane",
+  "name": "East African crowned crane",
+  "scientificName": "Balearica regulorum",
+  "group": "Birds",
+  "iucnStatus": "EN",
+  "statusNote": null,
+  "range": "East and southern Africa",
+  "biology": "Stands about 1 m tall and weighs 3–4 kg, with a crest of stiff golden feathers, white cheeks and a red throat wattle. It eats grass seeds, insects, frogs and lizards, stamping its feet to flush prey. Two to five eggs are laid in a nest of wetland vegetation, and both parents incubate for about 30 days.",
+  "behaviour": "Pairs mate for life and dance by bowing, jumping and wing-spreading. It makes a booming call by inflating its red throat pouch. Outside the breeding season it gathers in flocks and roosts in trees.",
+  "conservation": "Endangered after a steep decline caused by wetland drainage, and by capture for the pet trade.",
+  "evolution": "Crowned cranes are the oldest surviving branch of the crane family, which is part of Gruiformes with the rails. Their tree-roosting habit and booming calls are thought to resemble those of early cranes.",
+  "specialFeatures": "Crowned cranes are the only cranes that roost in trees, using a long hind toe to grip. It is Uganda's national bird and appears on the flag.",
+  "relationships": [
+   {
+    "id": "eastern-white-pelican",
+    "note": "Fellow large waterbird"
+   },
+   {
+    "id": "waldrapp-ibis",
+    "note": "Fellow large waterbird"
+   },
+   {
+    "id": "chilean-flamingo",
+    "note": "Fellow wetland bird"
+   }
+  ]
+ },
+ {
+  "id": "eastern-white-pelican",
+  "name": "Eastern white pelican",
+  "scientificName": "Pelecanus onocrotalus",
+  "group": "Birds",
+  "iucnStatus": "LC",
+  "statusNote": null,
+  "range": "South-east Europe, Asia and Africa",
+  "biology": "Weighs 10–11 kg, with a wingspan up to about 3.6 m. Air sacs under the skin and inside the bones make it buoyant. Breeding adults blush pink and develop a swollen forehead. It eats about 1.2 kg of fish a day. One or two eggs are laid, and often only one chick survives.",
+  "behaviour": "Nests in colonies and soars on thermals to cover long distances with little effort. Groups fish cooperatively. Chicks feed by reaching deep into the parent's pouch and throat.",
+  "conservation": "Least Concern, though some European colonies are small and vulnerable to disturbance and wetland loss.",
+  "evolution": "Fossil pelicans about 30 million years old look very like modern ones. Pelicans are part of Pelecaniformes, with the shoebill as their closest living relative.",
+  "specialFeatures": "Its pouch is a scoop, not a storage bag: the pelican drains the water before swallowing the fish.",
+  "relationships": [
+   {
+    "id": "waldrapp-ibis",
+    "note": "Same order (Pelecaniformes)"
+   },
+   {
+    "id": "east-african-crowned-crane",
+    "note": "Fellow large waterbird"
+   }
+  ]
+ },
+ {
+  "id": "gentoo-penguin",
+  "name": "Gentoo penguin",
+  "scientificName": "Pygoscelis papua",
+  "group": "Birds",
+  "iucnStatus": "LC",
+  "statusNote": null,
+  "range": "Antarctic Peninsula and sub-Antarctic islands",
+  "biology": "Stands 75–90 cm and weighs 5–8 kg, making it the third-largest penguin, with a long stiff tail. It eats krill, fish and squid, and drinks seawater, getting rid of the salt through glands above the eyes. It lays two eggs and often raises both chicks after about 35 days' incubation. Gentoos live about 15–20 years.",
+  "behaviour": "Breeds in colonies and dives to about 200 m. Nests are built of stones, and pairs perform loud 'ecstatic' displays. Older chicks chase their parents through the colony for food.",
+  "conservation": "Least Concern, and spreading southward on the Antarctic Peninsula as sea ice declines.",
+  "evolution": "Gentoos belong to Pygoscelis with the Adélie and chinstrap penguins. A 2020 genetic study proposed that gentoos are actually four separate species. The earliest known penguin, Waimanu, lived in New Zealand about 60 million years ago.",
+  "specialFeatures": "The fastest swimming bird, reaching about 36 km/h underwater. Edinburgh has kept penguins since 1914 and was the first zoo to breed them.",
+  "relationships": [
+   {
+    "id": "king-penguin",
+    "note": "Same family (Spheniscidae)"
+   },
+   {
+    "id": "northern-rockhopper-penguin",
+    "note": "Same family (Spheniscidae)"
+   }
+  ]
+ },
+ {
+  "id": "king-penguin",
+  "name": "King penguin",
+  "scientificName": "Aptenodytes patagonicus",
+  "group": "Birds",
+  "iucnStatus": "LC",
+  "statusNote": null,
+  "range": "Sub-Antarctic islands",
+  "biology": "Stands about 90 cm and weighs 11–16 kg, with bright orange ear patches and upper chest. Chicks are covered in fluffy brown down and look so different that early explorers thought they were a separate species. It feeds mainly on lanternfish. The single egg is incubated on the parent's feet for about 54 days, and chicks survive the winter fasting.",
+  "behaviour": "Lives in huge colonies with no nest territory apart from the space around its feet, which it defends by pecking. Chicks gather in crèches. Each parent finds its chick among thousands by recognising its call.",
+  "conservation": "Least Concern, although warming seas could push its feeding grounds further from some colonies.",
+  "evolution": "King and emperor penguins form the genus Aptenodytes and are the largest living penguins.",
+  "specialFeatures": "One breeding cycle takes over a year, so pairs breed at most twice every three years. Edinburgh's king penguin Sir Nils Olav is mascot of the Norwegian King's Guard and was promoted to Major General in 2023.",
+  "relationships": [
+   {
+    "id": "gentoo-penguin",
+    "note": "Same family (Spheniscidae)"
+   },
+   {
+    "id": "northern-rockhopper-penguin",
+    "note": "Same family (Spheniscidae)"
+   }
+  ]
+ },
+ {
+  "id": "northern-rockhopper-penguin",
+  "name": "Northern rockhopper penguin",
+  "scientificName": "Eudyptes moseleyi",
+  "group": "Birds",
+  "iucnStatus": "EN",
+  "statusNote": null,
+  "range": "Tristan da Cunha and Gough Island (South Atlantic), Amsterdam and St Paul Islands (Indian Ocean)",
+  "biology": "Stands about 55 cm and weighs 2–3.4 kg, with red eyes, a stubby red-orange bill and long, drooping yellow plumes above the eyes. It eats krill, squid and small fish caught on dives of up to about 100 m. Females lay two eggs a few days apart. The first is smaller and is usually lost or neglected, and the pair raises the chick from the second egg. Rockhoppers live about 10–20 years.",
+  "behaviour": "Nests in dense, noisy colonies on steep rocky slopes, often far above the sea, and reaches them by hopping up rocks with both feet together. Pairs return to the same nest site and partner each year and greet each other with head-swinging and loud braying. Rockhoppers are aggressive neighbours, pecking and flipper-slapping birds that come too close, and they leap feet-first into the surf rather than diving.",
+  "conservation": "Endangered after a fall of about 90% since the 1950s, linked to changes in food supply. In 2011 an oil spill from the wrecked ship MS Oliva on Nightingale Island coated thousands of birds.",
+  "evolution": "A crested penguin of the genus Eudyptes, a group that includes the macaroni and royal penguins. Crested penguins share the strange two-egg strategy where the first egg is usually abandoned. The northern rockhopper was split from the southern rockhopper in 2006 on the basis of genetics, longer plumes and different calls.",
+  "specialFeatures": "Crested penguins lay two eggs of different sizes, and usually only the second, larger egg is raised.",
+  "relationships": [
+   {
+    "id": "gentoo-penguin",
+    "note": "Same family (Spheniscidae)"
+   },
+   {
+    "id": "king-penguin",
+    "note": "Same family (Spheniscidae)"
+   }
+  ]
+ },
+ {
+  "id": "pied-imperial-pigeon",
+  "name": "Pied imperial pigeon",
+  "scientificName": "Ducula bicolor",
+  "group": "Birds",
+  "iucnStatus": "LC",
+  "statusNote": null,
+  "range": "Coasts and islands of South-east Asia",
+  "biology": "Measures about 35–42 cm, with white or creamy plumage and black flight and tail feathers. A wide gape lets it swallow large fruits such as wild nutmegs whole, and the seeds pass through undamaged. Pairs lay a single egg in a flimsy twig nest, and both parents feed the chick crop milk.",
+  "behaviour": "Nests in colonies on small offshore islands, often in mangroves, where there are fewer predators. Each day flocks commute to the mainland or larger islands to feed and return at dusk. It has a loud, deep, booming coo and often gathers in large flocks at fruiting trees.",
+  "conservation": "Least Concern, though hunted and trapped in places.",
+  "evolution": "Imperial pigeons (Ducula) number about 40 species and are fruit specialists within the pigeon family (Columbidae). Their ability to fly between islands helped them spread across South-east Asia and the Pacific. The pigeon family also includes the extinct dodo, a ground-dwelling island giant.",
+  "specialFeatures": "It can swallow large fruits whole and carries seeds between islands, helping to plant forests.",
+  "relationships": [
+   {
+    "id": "socorro-dove",
+    "note": "Same family (Columbidae)"
+   },
+   {
+    "id": "chilean-flamingo",
+    "note": "Both feed their chicks crop milk"
+   }
+  ]
+ },
+ {
+  "id": "red-fronted-macaw",
+  "name": "Red-fronted macaw",
+  "scientificName": "Ara rubrogenys",
+  "group": "Birds",
+  "iucnStatus": "CR",
+  "statusNote": null,
+  "range": "Dry Andean valleys of central Bolivia",
+  "biology": "Measures about 55–60 cm and is mostly olive-green, with a red forehead, orange-red ear patches, red-orange shoulders and blue flight feathers. It eats seeds, fruit and cactus, and in farmed areas maize and peanuts. It nests in crevices on cliff faces and usually lays two or three eggs.",
+  "behaviour": "Lives in pairs and family groups that join noisy flocks, especially in the non-breeding season. Flocks roost together on cliffs and fly out to feed, often landing on the ground to pick up seeds, which brings them into conflict with farmers.",
+  "conservation": "Critically Endangered, with only a few hundred adults. Farmers sometimes kill it for eating maize and peanuts, and it is trapped for the pet trade.",
+  "evolution": "A member of Ara, the large macaws. It is restricted to a handful of dry valleys in the Bolivian Andes, where it probably evolved in isolation from rainforest macaws. Parrots' closest relatives are the songbirds, and the two groups together are related to falcons.",
+  "specialFeatures": "Unlike most macaws it lives in semi-desert rather than rainforest.",
+  "relationships": [
+   {
+    "id": "chilean-flamingo",
+    "note": "Fellow South American bird"
+   }
+  ]
+ },
+ {
+  "id": "socorro-dove",
+  "name": "Socorro dove",
+  "scientificName": "Zenaida graysoni",
+  "group": "Birds",
+  "iucnStatus": "EW",
+  "statusNote": null,
+  "range": "Socorro Island, Mexico (now only in human care)",
+  "biology": "Measures about 30 cm, cinnamon-brown with blue-grey on the neck and short, rounded wings. It feeds on seeds and fruit on the forest floor. Females lay two eggs, and both parents feed the chicks crop milk.",
+  "behaviour": "Spends most of its time on the ground and walks rather than flies. It nests low in trees and shrubs. Its lack of fear of predators, common in island birds, made it easy prey for feral cats, and sheep destroyed the understorey it relied on.",
+  "conservation": "Extinct in the Wild since the 1970s, after feral cats and sheep destroyed it and its habitat. All living birds descend from doves taken to California in the 1920s. Edinburgh is part of an international programme to restore Socorro Island and return the doves.",
+  "evolution": "It belongs to Zenaida with the mourning dove and white-winged dove. Like many island species, it evolved to be larger, more ground-dwelling and less wary than its mainland ancestors.",
+  "specialFeatures": "One of the few bird species that survives only because of zoo breeding.",
+  "relationships": [
+   {
+    "id": "pied-imperial-pigeon",
+    "note": "Same family (Columbidae)"
+   },
+   {
+    "id": "przewalskis-wild-horse",
+    "note": "Also survived extinction in the wild through zoo breeding"
+   }
+  ]
+ },
+ {
+  "id": "southern-cassowary",
+  "name": "Southern cassowary",
+  "scientificName": "Casuarius casuarius",
+  "group": "Birds",
+  "iucnStatus": "LC",
+  "statusNote": "Least Concern globally; Endangered under Australian law",
+  "range": "New Guinea and north-eastern Australia",
+  "biology": "Stands up to about 1.7 m, and females, which are larger, can weigh about 60 kg. It has glossy black, hair-like feathers, a blue neck, red wattles and wing quills reduced to bare spines. The function of the casque is debated; one 2019 study suggests it helps shed heat. The male incubates three to five green eggs for about 50 days and raises the chicks for about nine months.",
+  "behaviour": "Solitary and territorial. It can run at about 50 km/h, jump and swim. It makes low-frequency booming calls that carry through dense forest.",
+  "conservation": "In Australia, habitat loss, cars and dogs have made it Endangered. It is one of the rainforest's key seed dispersers.",
+  "evolution": "Cassowaries are related to emus. Ratites belong to the palaeognaths with the tinamous, which can fly, which shows flightlessness evolved more than once in the group.",
+  "specialFeatures": "It swallows fruit whole and spreads seeds of over 70 plant species, some of which germinate poorly without passing through a cassowary.",
+  "relationships": [
+   {
+    "id": "queensland-koala",
+    "note": "Fellow native of eastern Australia"
+   },
+   {
+    "id": "macleays-spectre",
+    "note": "Fellow Australian rainforest animal"
+   },
+   {
+    "id": "western-grey-kangaroo",
+    "note": "Fellow Australian native"
+   }
+  ]
+ },
+ {
+  "id": "waldrapp-ibis",
+  "name": "Waldrapp ibis",
+  "scientificName": "Geronticus eremita",
+  "group": "Birds",
+  "iucnStatus": "EN",
+  "statusNote": null,
+  "range": "Morocco; reintroduced in Europe",
+  "biology": "Measures about 70–80 cm and weighs 1–1.5 kg. The plumage is iridescent green-black with a bronze sheen, the face is bare and red, and the bill is long, curved and red. It eats insects, worms, snails and small reptiles. Pairs nest on cliff ledges in colonies and lay two to four eggs. Waldrapps live 20–30 years.",
+  "behaviour": "Lives in colonies. Birds greet each other with elaborate bowing displays and 'chrup' calls. Young birds must learn migration routes from experienced adults; without guides they do not know where to go.",
+  "conservation": "Endangered. It vanished from Central Europe by the 1600s, and the main wild colony is now in Morocco. In Austria the Waldrappteam has taught young ibises a migration route by leading them with microlight aircraft.",
+  "evolution": "Belongs to Geronticus with the southern bald ibis of South Africa. Ibises are part of Pelecaniformes with pelicans and herons.",
+  "specialFeatures": "It was one of the first birds given legal protection, by an Archbishop of Salzburg in 1504.",
+  "relationships": [
+   {
+    "id": "eastern-white-pelican",
+    "note": "Same order (Pelecaniformes)"
+   },
+   {
+    "id": "east-african-crowned-crane",
+    "note": "Fellow large waterbird"
+   }
+  ]
+ },
+ {
+  "id": "blue-poison-dart-frog",
+  "name": "Blue poison dart frog",
+  "scientificName": "Dendrobates tinctorius 'azureus'",
+  "group": "Reptiles and amphibians",
+  "iucnStatus": "LC",
+  "statusNote": null,
+  "range": "Forest islands in southern Suriname",
+  "biology": "Measures about 3–4.5 cm. It is bright blue with black spots, and the spot pattern differs between individuals. Females are larger, and males have larger toe pads. It eats ants, mites and termites, and sequesters alkaloid toxins from them into its skin. Eggs are laid on land in moist leaf litter.",
+  "behaviour": "Active by day and territorial. Males call with a soft buzz. Females compete for males and sometimes fight. The male guards the eggs and then carries the tadpoles to small pools of water.",
+  "conservation": "Least Concern as part of the wider dyeing poison frog species, though its tiny range makes it vulnerable.",
+  "evolution": "A member of Dendrobatidae. Warning colours and the ability to store toxins from food evolved several times within the poison frog family. The blue frog was once a separate species, Dendrobates azureus, but is now considered a colour form of D. tinctorius.",
+  "specialFeatures": "Wild frogs get their toxins from the ants and mites they eat, so captive-bred frogs are not poisonous. Its bright colour warns predators.",
+  "relationships": [
+   {
+    "id": "trinidadian-stream-frog",
+    "note": "Its family is the sister group of poison frogs"
+   }
+  ]
+ },
+ {
+  "id": "trinidadian-stream-frog",
+  "name": "Trinidadian stream frog",
+  "scientificName": "Mannophryne trinitatis",
+  "group": "Reptiles and amphibians",
+  "iucnStatus": "LC",
+  "statusNote": null,
+  "range": "Trinidad",
+  "biology": "Measures about 2.5–3 cm, brown with dark stripes. Females have a bright yellow throat bordered by a dark collar; males have grey throats that turn black when calling. It eats small insects.",
+  "behaviour": "Active by day. Females defend territories along streams and display their yellow throats to rivals. Males call from rocks and carry tadpoles on their backs to pools.",
+  "conservation": "Not considered globally threatened, but limited to one island and vulnerable to changes in stream habitat.",
+  "evolution": "Mannophryne, the collared frogs, includes about 20 species in Venezuela, Trinidad and Tobago. They are relatives of the poison frogs but do not sequester toxins. Trinidad was joined to South America until about 10,000 years ago.",
+  "specialFeatures": "It is non-toxic, unlike its poison frog relatives.",
+  "relationships": [
+   {
+    "id": "blue-poison-dart-frog",
+    "note": "Closely related frog family"
+   }
+  ]
+ },
+ {
+  "id": "leopard-tortoise",
+  "name": "Leopard tortoise",
+  "scientificName": "Stigmochelys pardalis",
+  "group": "Reptiles and amphibians",
+  "iucnStatus": "LC",
+  "statusNote": null,
+  "range": "Eastern and southern Africa",
+  "biology": "Measures 40–70 cm and commonly weighs up to about 18 kg, making it one of Africa's largest tortoises. It has a high, domed shell with black blotches. It eats grasses, succulents and thistles. Females lay several clutches of 5–30 eggs, and incubation can take many months. The nest temperature determines the hatchlings' sex. Leopard tortoises can live 80–100 years.",
+  "behaviour": "Wanders widely in search of food and water. It gnaws bones and eats hyena droppings for calcium. Males ram and try to flip rivals during the breeding season.",
+  "conservation": "Least Concern.",
+  "evolution": "A tortoise (Testudinidae), the only species in its genus. Tortoises descend from water-dwelling turtles that moved onto land.",
+  "specialFeatures": "It gnaws bones and eats hyena droppings to get calcium for its shell. Unlike most tortoises, it can swim.",
+  "relationships": [
+   {
+    "id": "milk-snake",
+    "note": "Fellow reptile"
+   },
+   {
+    "id": "meerkat",
+    "note": "Fellow southern African animal"
+   }
+  ]
+ },
+ {
+  "id": "milk-snake",
+  "name": "Milk snake",
+  "scientificName": "Lampropeltis triangulum",
+  "group": "Reptiles and amphibians",
+  "iucnStatus": "LC",
+  "statusNote": null,
+  "range": "North, Central and northern South America",
+  "biology": "Measures 50–150 cm, with red, black and yellow or white bands. It eats rodents, lizards, birds' eggs and other snakes, and is partly resistant to some snake venoms. Females lay 3–24 eggs in rotting logs or leaf litter.",
+  "behaviour": "Nocturnal and secretive, spending the day under logs and rocks. It kills prey by constriction. When threatened it vibrates its tail and may release a foul musk.",
+  "conservation": "Least Concern.",
+  "evolution": "A kingsnake (Lampropeltis). A 2014 study split the milk snake into seven species. Its bands mimic venomous coral snakes, an example of Batesian mimicry.",
+  "specialFeatures": "Its red, black and yellow bands mimic those of venomous coral snakes. It is resistant to some snake venom. The name comes from an old myth that it drank milk from cows.",
+  "relationships": [
+   {
+    "id": "leopard-tortoise",
+    "note": "Fellow reptile"
+   }
+  ]
+ },
+ {
+  "id": "chilean-rose-tarantula",
+  "name": "Chilean rose tarantula",
+  "scientificName": "Grammostola rosea",
+  "group": "Invertebrates",
+  "iucnStatus": "NE",
+  "statusNote": null,
+  "range": "Chile, Bolivia and Argentina",
+  "biology": "Leg span is about 12–15 cm. It has eight eyes but poor vision, and senses vibrations through sensitive hairs. Its venom is mild to humans. It liquefies its prey with digestive juices. Females lay about 500 eggs in a silk sac and guard it. It can regrow lost legs when it moults. Females can live over 20 years, while males mature at about five years and die soon after.",
+  "behaviour": "Nocturnal, living in a burrow and ambushing passing insects. It is docile and can go without food for months. When threatened it flicks irritating hairs from its abdomen.",
+  "conservation": "Not evaluated by the IUCN; wild collection for the pet trade is a concern.",
+  "evolution": "A mygalomorph, an ancient branch of spiders whose fangs strike downward. Tarantulas are among the longest-lived terrestrial invertebrates.",
+  "specialFeatures": "Females can live over 20 years. It flicks irritating hairs from its abdomen at attackers.",
+  "relationships": [
+   {
+    "id": "madagascan-hissing-cockroach",
+    "note": "Fellow invertebrate"
+   },
+   {
+    "id": "sun-beetle",
+    "note": "Fellow invertebrate"
+   }
+  ]
+ },
+ {
+  "id": "macleays-spectre",
+  "name": "Macleay's spectre",
+  "scientificName": "Extatosoma tiaratum",
+  "group": "Invertebrates",
+  "iucnStatus": "NE",
+  "statusNote": null,
+  "range": "North-eastern Australia",
+  "biology": "Females are 15–20 cm long, heavy and spiny, with short wings and cannot fly. Males are thin and can fly. It eats eucalyptus leaves. Females can lay eggs without mating, which hatch into females. The eggs look like seeds and have a knob that attracts ants, which carry them into their nests. Young nymphs mimic ants and run fast with their abdomens curled.",
+  "behaviour": "Sways like a leaf in the wind to blend in. When threatened it curls its abdomen over its back like a scorpion, raises its spiny legs and releases a smell.",
+  "conservation": "Not evaluated.",
+  "evolution": "A stick insect (Phasmatodea). Stick insects are known for elaborate camouflage, and some can lose and later regain wings over evolutionary time.",
+  "specialFeatures": "Its eggs look like seeds and have a tasty knob that attracts ants. The ants carry the eggs into their nests, where they are protected. Females can lay fertile eggs without mating.",
+  "relationships": [
+   {
+    "id": "queensland-koala",
+    "note": "Fellow native of eastern Australia"
+   },
+   {
+    "id": "southern-cassowary",
+    "note": "Fellow Australian rainforest animal"
+   },
+   {
+    "id": "sun-beetle",
+    "note": "Fellow insect"
+   }
+  ]
+ },
+ {
+  "id": "madagascan-hissing-cockroach",
+  "name": "Madagascan hissing cockroach",
+  "scientificName": "Gromphadorhina portentosa",
+  "group": "Invertebrates",
+  "iucnStatus": "NE",
+  "statusNote": null,
+  "range": "Madagascar",
+  "biology": "Measures 5–7.5 cm and is wingless. Males have horn-like bumps on the thorax. The female carries her egg case inside her body and gives birth to about 30–60 nymphs. It eats decaying plants and fruit. It lives two to five years.",
+  "behaviour": "Lives in colonies. Males defend territories and fight by shoving with their horns. It makes three types of hiss by forcing air through its breathing holes: disturbance, courtship and fighting.",
+  "conservation": "Not evaluated.",
+  "evolution": "A member of Blaberidae. Termites evolved from within the cockroaches.",
+  "specialFeatures": "It hisses by pushing air through its breathing holes. Males have horns and fight by shoving.",
+  "relationships": [
+   {
+    "id": "ring-tailed-lemur",
+    "note": "Fellow native of Madagascar"
+   },
+   {
+    "id": "crowned-lemur",
+    "note": "Fellow native of Madagascar"
+   },
+   {
+    "id": "red-bellied-lemur",
+    "note": "Fellow native of Madagascar"
+   },
+   {
+    "id": "sun-beetle",
+    "note": "Fellow insect"
+   }
+  ]
+ },
+ {
+  "id": "sun-beetle",
+  "name": "Sun beetle",
+  "scientificName": "Pachnoda marginata",
+  "group": "Invertebrates",
+  "iucnStatus": "NE",
+  "statusNote": null,
+  "range": "West and Central Africa",
+  "biology": "Measures about 2.5 cm, yellow-green with brown markings. Adults eat fruit and nectar. The larva is a C-shaped grub that eats decaying wood and leaves, and builds a pupal cell from soil.",
+  "behaviour": "Flies by day and gathers on ripe fruit. It flies with its wing cases closed, sliding its wings out from the sides.",
+  "conservation": "Not evaluated.",
+  "evolution": "A flower chafer (Cetoniinae) in the scarab family, related to dung beetles.",
+  "specialFeatures": "It flies with its wing cases closed, sliding its wings out from the sides.",
+  "relationships": [
+   {
+    "id": "madagascan-hissing-cockroach",
+    "note": "Fellow insect"
+   },
+   {
+    "id": "macleays-spectre",
+    "note": "Fellow insect"
+   }
+  ]
+ }
+]
